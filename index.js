@@ -37,7 +37,7 @@ bot.on('message', (msg) => {
         }
 
         // Input @ bot (JME function)
-    if (msg.isMentioned(bot.user)) {
+		if (msg.isMentioned(bot.user)) {
                 switch(msg.channel.id) {
                         case pglgeneral: case pglofftopic: case pglbot: case pysgeneral:
                                 post(JME(), msg.channel.id);
@@ -46,7 +46,7 @@ bot.on('message', (msg) => {
                                 msg.reply('Salve magistra.').catch(console.error);
                                 break;
                 }
-    };
+		};
 
         // Input from particular user (meme)
         if (msg.channel.id == pglgeneral && msg.author.id == "177806056989261824" && msg.content.substring(0,7) == "anyways") {
