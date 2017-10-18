@@ -10,7 +10,7 @@ Umbrella for various functions of Pyobot on Discord.
 ## Files
 * ./index.js is a script executed by a server to run the Discord bot and listen for messages.
 * ./RD.js is a library of calculation/parsing functions for some of the features.
-* ./get_reacts.js is an independent script to be run locally to list reactions to posts (which represent votes).
+* ./get_react.js is an independent script to be run locally to list reactions to posts (which represent votes).
 * ./jme.json stores JME quotations.
 * ./key.json stores bot tokens and JSON urls.
 * ./RDC/ stores data for use by the calculators.
