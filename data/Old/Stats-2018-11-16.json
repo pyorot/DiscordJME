@@ -6,56 +6,7 @@
         "Type1": "grass",
         "Type2": "poison"
     },
-    "bulbasaur-fall-2019": {
-        "Attack": 118,
-        "Defense": 111,
-        "Stamina": 128,
-        "Type1": "grass",
-        "Type2": "poison"
-    },
-    "bulbasaur-normal": {
-        "Attack": 118,
-        "Defense": 111,
-        "Stamina": 128,
-        "Type1": "grass",
-        "Type2": "poison"
-    },
-    "bulbasaur-purified": {
-        "Attack": 118,
-        "Defense": 111,
-        "Stamina": 128,
-        "Type1": "grass",
-        "Type2": "poison"
-    },
-    "bulbasaur-shadow": {
-        "Attack": 118,
-        "Defense": 111,
-        "Stamina": 128,
-        "Type1": "grass",
-        "Type2": "poison"
-    },
     "ivysaur": {
-        "Attack": 151,
-        "Defense": 143,
-        "Stamina": 155,
-        "Type1": "grass",
-        "Type2": "poison"
-    },
-    "ivysaur-normal": {
-        "Attack": 151,
-        "Defense": 143,
-        "Stamina": 155,
-        "Type1": "grass",
-        "Type2": "poison"
-    },
-    "ivysaur-purified": {
-        "Attack": 151,
-        "Defense": 143,
-        "Stamina": 155,
-        "Type1": "grass",
-        "Type2": "poison"
-    },
-    "ivysaur-shadow": {
         "Attack": 151,
         "Defense": 143,
         "Stamina": 155,
@@ -69,56 +20,7 @@
         "Type1": "grass",
         "Type2": "poison"
     },
-    "venusaur-normal": {
-        "Attack": 198,
-        "Defense": 189,
-        "Stamina": 190,
-        "Type1": "grass",
-        "Type2": "poison"
-    },
-    "venusaur-purified": {
-        "Attack": 198,
-        "Defense": 189,
-        "Stamina": 190,
-        "Type1": "grass",
-        "Type2": "poison"
-    },
-    "venusaur-shadow": {
-        "Attack": 198,
-        "Defense": 189,
-        "Stamina": 190,
-        "Type1": "grass",
-        "Type2": "poison"
-    },
     "charmander": {
-        "Attack": 116,
-        "Defense": 93,
-        "Stamina": 118,
-        "Type1": "fire",
-        "Type2": "none"
-    },
-    "charmander-fall-2019": {
-        "Attack": 116,
-        "Defense": 93,
-        "Stamina": 118,
-        "Type1": "fire",
-        "Type2": "none"
-    },
-    "charmander-normal": {
-        "Attack": 116,
-        "Defense": 93,
-        "Stamina": 118,
-        "Type1": "fire",
-        "Type2": "none"
-    },
-    "charmander-purified": {
-        "Attack": 116,
-        "Defense": 93,
-        "Stamina": 118,
-        "Type1": "fire",
-        "Type2": "none"
-    },
-    "charmander-shadow": {
         "Attack": 116,
         "Defense": 93,
         "Stamina": 118,
@@ -132,49 +34,7 @@
         "Type1": "fire",
         "Type2": "none"
     },
-    "charmeleon-normal": {
-        "Attack": 158,
-        "Defense": 126,
-        "Stamina": 151,
-        "Type1": "fire",
-        "Type2": "none"
-    },
-    "charmeleon-purified": {
-        "Attack": 158,
-        "Defense": 126,
-        "Stamina": 151,
-        "Type1": "fire",
-        "Type2": "none"
-    },
-    "charmeleon-shadow": {
-        "Attack": 158,
-        "Defense": 126,
-        "Stamina": 151,
-        "Type1": "fire",
-        "Type2": "none"
-    },
     "charizard": {
-        "Attack": 223,
-        "Defense": 173,
-        "Stamina": 186,
-        "Type1": "fire",
-        "Type2": "flying"
-    },
-    "charizard-normal": {
-        "Attack": 223,
-        "Defense": 173,
-        "Stamina": 186,
-        "Type1": "fire",
-        "Type2": "flying"
-    },
-    "charizard-purified": {
-        "Attack": 223,
-        "Defense": 173,
-        "Stamina": 186,
-        "Type1": "fire",
-        "Type2": "flying"
-    },
-    "charizard-shadow": {
         "Attack": 223,
         "Defense": 173,
         "Stamina": 186,
@@ -188,34 +48,6 @@
         "Type1": "water",
         "Type2": "none"
     },
-    "squirtle-fall-2019": {
-        "Attack": 94,
-        "Defense": 121,
-        "Stamina": 127,
-        "Type1": "water",
-        "Type2": "none"
-    },
-    "squirtle-normal": {
-        "Attack": 94,
-        "Defense": 121,
-        "Stamina": 127,
-        "Type1": "water",
-        "Type2": "none"
-    },
-    "squirtle-purified": {
-        "Attack": 94,
-        "Defense": 121,
-        "Stamina": 127,
-        "Type1": "water",
-        "Type2": "none"
-    },
-    "squirtle-shadow": {
-        "Attack": 94,
-        "Defense": 121,
-        "Stamina": 127,
-        "Type1": "water",
-        "Type2": "none"
-    },
     "wartortle": {
         "Attack": 126,
         "Defense": 155,
@@ -223,49 +55,7 @@
         "Type1": "water",
         "Type2": "none"
     },
-    "wartortle-normal": {
-        "Attack": 126,
-        "Defense": 155,
-        "Stamina": 153,
-        "Type1": "water",
-        "Type2": "none"
-    },
-    "wartortle-purified": {
-        "Attack": 126,
-        "Defense": 155,
-        "Stamina": 153,
-        "Type1": "water",
-        "Type2": "none"
-    },
-    "wartortle-shadow": {
-        "Attack": 126,
-        "Defense": 155,
-        "Stamina": 153,
-        "Type1": "water",
-        "Type2": "none"
-    },
     "blastoise": {
-        "Attack": 171,
-        "Defense": 207,
-        "Stamina": 188,
-        "Type1": "water",
-        "Type2": "none"
-    },
-    "blastoise-normal": {
-        "Attack": 171,
-        "Defense": 207,
-        "Stamina": 188,
-        "Type1": "water",
-        "Type2": "none"
-    },
-    "blastoise-purified": {
-        "Attack": 171,
-        "Defense": 207,
-        "Stamina": 188,
-        "Type1": "water",
-        "Type2": "none"
-    },
-    "blastoise-shadow": {
         "Attack": 171,
         "Defense": 207,
         "Stamina": 188,
@@ -300,27 +90,6 @@
         "Type1": "bug",
         "Type2": "poison"
     },
-    "weedle-normal": {
-        "Attack": 63,
-        "Defense": 50,
-        "Stamina": 120,
-        "Type1": "bug",
-        "Type2": "poison"
-    },
-    "weedle-purified": {
-        "Attack": 63,
-        "Defense": 50,
-        "Stamina": 120,
-        "Type1": "bug",
-        "Type2": "poison"
-    },
-    "weedle-shadow": {
-        "Attack": 63,
-        "Defense": 50,
-        "Stamina": 120,
-        "Type1": "bug",
-        "Type2": "poison"
-    },
     "kakuna": {
         "Attack": 46,
         "Defense": 75,
@@ -328,49 +97,7 @@
         "Type1": "bug",
         "Type2": "poison"
     },
-    "kakuna-normal": {
-        "Attack": 46,
-        "Defense": 75,
-        "Stamina": 128,
-        "Type1": "bug",
-        "Type2": "poison"
-    },
-    "kakuna-purified": {
-        "Attack": 46,
-        "Defense": 75,
-        "Stamina": 128,
-        "Type1": "bug",
-        "Type2": "poison"
-    },
-    "kakuna-shadow": {
-        "Attack": 46,
-        "Defense": 75,
-        "Stamina": 128,
-        "Type1": "bug",
-        "Type2": "poison"
-    },
     "beedrill": {
-        "Attack": 169,
-        "Defense": 130,
-        "Stamina": 163,
-        "Type1": "bug",
-        "Type2": "poison"
-    },
-    "beedrill-normal": {
-        "Attack": 169,
-        "Defense": 130,
-        "Stamina": 163,
-        "Type1": "bug",
-        "Type2": "poison"
-    },
-    "beedrill-purified": {
-        "Attack": 169,
-        "Defense": 130,
-        "Stamina": 163,
-        "Type1": "bug",
-        "Type2": "poison"
-    },
-    "beedrill-shadow": {
         "Attack": 169,
         "Defense": 130,
         "Stamina": 163,
@@ -419,20 +146,6 @@
         "Type1": "normal",
         "Type2": "none"
     },
-    "rattata-purified": {
-        "Attack": 103,
-        "Defense": 70,
-        "Stamina": 102,
-        "Type1": "normal",
-        "Type2": "none"
-    },
-    "rattata-shadow": {
-        "Attack": 103,
-        "Defense": 70,
-        "Stamina": 102,
-        "Type1": "normal",
-        "Type2": "none"
-    },
     "raticate": {
         "Attack": 161,
         "Defense": 139,
@@ -448,20 +161,6 @@
         "Type2": "normal"
     },
     "raticate-normal": {
-        "Attack": 161,
-        "Defense": 139,
-        "Stamina": 146,
-        "Type1": "normal",
-        "Type2": "none"
-    },
-    "raticate-purified": {
-        "Attack": 161,
-        "Defense": 139,
-        "Stamina": 146,
-        "Type1": "normal",
-        "Type2": "none"
-    },
-    "raticate-shadow": {
         "Attack": 161,
         "Defense": 139,
         "Stamina": 146,
@@ -497,20 +196,6 @@
         "Type2": "none"
     },
     "pikachu": {
-        "Attack": 112,
-        "Defense": 96,
-        "Stamina": 111,
-        "Type1": "electric",
-        "Type2": "none"
-    },
-    "pikachu-fall-2019": {
-        "Attack": 112,
-        "Defense": 96,
-        "Stamina": 111,
-        "Type1": "electric",
-        "Type2": "none"
-    },
-    "pikachu-normal": {
         "Attack": 112,
         "Defense": 96,
         "Stamina": 111,
@@ -699,49 +384,7 @@
         "Type1": "poison",
         "Type2": "flying"
     },
-    "zubat-normal": {
-        "Attack": 83,
-        "Defense": 73,
-        "Stamina": 120,
-        "Type1": "poison",
-        "Type2": "flying"
-    },
-    "zubat-purified": {
-        "Attack": 83,
-        "Defense": 73,
-        "Stamina": 120,
-        "Type1": "poison",
-        "Type2": "flying"
-    },
-    "zubat-shadow": {
-        "Attack": 83,
-        "Defense": 73,
-        "Stamina": 120,
-        "Type1": "poison",
-        "Type2": "flying"
-    },
     "golbat": {
-        "Attack": 161,
-        "Defense": 150,
-        "Stamina": 181,
-        "Type1": "poison",
-        "Type2": "flying"
-    },
-    "golbat-normal": {
-        "Attack": 161,
-        "Defense": 150,
-        "Stamina": 181,
-        "Type1": "poison",
-        "Type2": "flying"
-    },
-    "golbat-purified": {
-        "Attack": 161,
-        "Defense": 150,
-        "Stamina": 181,
-        "Type1": "poison",
-        "Type2": "flying"
-    },
-    "golbat-shadow": {
         "Attack": 161,
         "Defense": 150,
         "Stamina": 181,
@@ -755,27 +398,6 @@
         "Type1": "grass",
         "Type2": "poison"
     },
-    "oddish-normal": {
-        "Attack": 131,
-        "Defense": 112,
-        "Stamina": 128,
-        "Type1": "grass",
-        "Type2": "poison"
-    },
-    "oddish-purified": {
-        "Attack": 131,
-        "Defense": 112,
-        "Stamina": 128,
-        "Type1": "grass",
-        "Type2": "poison"
-    },
-    "oddish-shadow": {
-        "Attack": 131,
-        "Defense": 112,
-        "Stamina": 128,
-        "Type1": "grass",
-        "Type2": "poison"
-    },
     "gloom": {
         "Attack": 153,
         "Defense": 136,
@@ -783,49 +405,7 @@
         "Type1": "grass",
         "Type2": "poison"
     },
-    "gloom-normal": {
-        "Attack": 153,
-        "Defense": 136,
-        "Stamina": 155,
-        "Type1": "grass",
-        "Type2": "poison"
-    },
-    "gloom-purified": {
-        "Attack": 153,
-        "Defense": 136,
-        "Stamina": 155,
-        "Type1": "grass",
-        "Type2": "poison"
-    },
-    "gloom-shadow": {
-        "Attack": 153,
-        "Defense": 136,
-        "Stamina": 155,
-        "Type1": "grass",
-        "Type2": "poison"
-    },
     "vileplume": {
-        "Attack": 202,
-        "Defense": 167,
-        "Stamina": 181,
-        "Type1": "grass",
-        "Type2": "poison"
-    },
-    "vileplume-normal": {
-        "Attack": 202,
-        "Defense": 167,
-        "Stamina": 181,
-        "Type1": "grass",
-        "Type2": "poison"
-    },
-    "vileplume-purified": {
-        "Attack": 202,
-        "Defense": 167,
-        "Stamina": 181,
-        "Type1": "grass",
-        "Type2": "poison"
-    },
-    "vileplume-shadow": {
         "Attack": 202,
         "Defense": 167,
         "Stamina": 181,
@@ -853,49 +433,7 @@
         "Type1": "bug",
         "Type2": "poison"
     },
-    "venonat-normal": {
-        "Attack": 100,
-        "Defense": 100,
-        "Stamina": 155,
-        "Type1": "bug",
-        "Type2": "poison"
-    },
-    "venonat-purified": {
-        "Attack": 100,
-        "Defense": 100,
-        "Stamina": 155,
-        "Type1": "bug",
-        "Type2": "poison"
-    },
-    "venonat-shadow": {
-        "Attack": 100,
-        "Defense": 100,
-        "Stamina": 155,
-        "Type1": "bug",
-        "Type2": "poison"
-    },
     "venomoth": {
-        "Attack": 179,
-        "Defense": 143,
-        "Stamina": 172,
-        "Type1": "bug",
-        "Type2": "poison"
-    },
-    "venomoth-normal": {
-        "Attack": 179,
-        "Defense": 143,
-        "Stamina": 172,
-        "Type1": "bug",
-        "Type2": "poison"
-    },
-    "venomoth-purified": {
-        "Attack": 179,
-        "Defense": 143,
-        "Stamina": 172,
-        "Type1": "bug",
-        "Type2": "poison"
-    },
-    "venomoth-shadow": {
         "Attack": 179,
         "Defense": 143,
         "Stamina": 172,
@@ -910,8 +448,8 @@
         "Type2": "none"
     },
     "diglett-alolan": {
-        "Attack": 108,
-        "Defense": 81,
+        "Attack": 109,
+        "Defense": 82,
         "Stamina": 67,
         "Type1": "ground",
         "Type2": "steel"
@@ -932,14 +470,14 @@
     },
     "dugtrio-alolan": {
         "Attack": 201,
-        "Defense": 142,
+        "Defense": 145,
         "Stamina": 111,
         "Type1": "ground",
         "Type2": "steel"
     },
     "dugtrio-normal": {
         "Attack": 167,
-        "Defense": 136,
+        "Defense": 134,
         "Stamina": 111,
         "Type1": "ground",
         "Type2": "none"
@@ -993,49 +531,7 @@
         "Type1": "water",
         "Type2": "none"
     },
-    "psyduck-normal": {
-        "Attack": 122,
-        "Defense": 95,
-        "Stamina": 137,
-        "Type1": "water",
-        "Type2": "none"
-    },
-    "psyduck-purified": {
-        "Attack": 122,
-        "Defense": 95,
-        "Stamina": 137,
-        "Type1": "water",
-        "Type2": "none"
-    },
-    "psyduck-shadow": {
-        "Attack": 122,
-        "Defense": 95,
-        "Stamina": 137,
-        "Type1": "water",
-        "Type2": "none"
-    },
     "golduck": {
-        "Attack": 191,
-        "Defense": 162,
-        "Stamina": 190,
-        "Type1": "water",
-        "Type2": "none"
-    },
-    "golduck-normal": {
-        "Attack": 191,
-        "Defense": 162,
-        "Stamina": 190,
-        "Type1": "water",
-        "Type2": "none"
-    },
-    "golduck-purified": {
-        "Attack": 191,
-        "Defense": 162,
-        "Stamina": 190,
-        "Type1": "water",
-        "Type2": "none"
-    },
-    "golduck-shadow": {
         "Attack": 191,
         "Defense": 162,
         "Stamina": 190,
@@ -1063,49 +559,7 @@
         "Type1": "fire",
         "Type2": "none"
     },
-    "growlithe-normal": {
-        "Attack": 136,
-        "Defense": 93,
-        "Stamina": 146,
-        "Type1": "fire",
-        "Type2": "none"
-    },
-    "growlithe-purified": {
-        "Attack": 136,
-        "Defense": 93,
-        "Stamina": 146,
-        "Type1": "fire",
-        "Type2": "none"
-    },
-    "growlithe-shadow": {
-        "Attack": 136,
-        "Defense": 93,
-        "Stamina": 146,
-        "Type1": "fire",
-        "Type2": "none"
-    },
     "arcanine": {
-        "Attack": 227,
-        "Defense": 166,
-        "Stamina": 207,
-        "Type1": "fire",
-        "Type2": "none"
-    },
-    "arcanine-normal": {
-        "Attack": 227,
-        "Defense": 166,
-        "Stamina": 207,
-        "Type1": "fire",
-        "Type2": "none"
-    },
-    "arcanine-purified": {
-        "Attack": 227,
-        "Defense": 166,
-        "Stamina": 207,
-        "Type1": "fire",
-        "Type2": "none"
-    },
-    "arcanine-shadow": {
         "Attack": 227,
         "Defense": 166,
         "Stamina": 207,
@@ -1119,49 +573,7 @@
         "Type1": "water",
         "Type2": "none"
     },
-    "poliwag-normal": {
-        "Attack": 101,
-        "Defense": 82,
-        "Stamina": 120,
-        "Type1": "water",
-        "Type2": "none"
-    },
-    "poliwag-purified": {
-        "Attack": 101,
-        "Defense": 82,
-        "Stamina": 120,
-        "Type1": "water",
-        "Type2": "none"
-    },
-    "poliwag-shadow": {
-        "Attack": 101,
-        "Defense": 82,
-        "Stamina": 120,
-        "Type1": "water",
-        "Type2": "none"
-    },
     "poliwhirl": {
-        "Attack": 130,
-        "Defense": 123,
-        "Stamina": 163,
-        "Type1": "water",
-        "Type2": "none"
-    },
-    "poliwhirl-normal": {
-        "Attack": 130,
-        "Defense": 123,
-        "Stamina": 163,
-        "Type1": "water",
-        "Type2": "none"
-    },
-    "poliwhirl-purified": {
-        "Attack": 130,
-        "Defense": 123,
-        "Stamina": 163,
-        "Type1": "water",
-        "Type2": "none"
-    },
-    "poliwhirl-shadow": {
         "Attack": 130,
         "Defense": 123,
         "Stamina": 163,
@@ -1175,49 +587,7 @@
         "Type1": "water",
         "Type2": "fighting"
     },
-    "poliwrath-normal": {
-        "Attack": 182,
-        "Defense": 184,
-        "Stamina": 207,
-        "Type1": "water",
-        "Type2": "fighting"
-    },
-    "poliwrath-purified": {
-        "Attack": 182,
-        "Defense": 184,
-        "Stamina": 207,
-        "Type1": "water",
-        "Type2": "fighting"
-    },
-    "poliwrath-shadow": {
-        "Attack": 182,
-        "Defense": 184,
-        "Stamina": 207,
-        "Type1": "water",
-        "Type2": "fighting"
-    },
     "abra": {
-        "Attack": 195,
-        "Defense": 82,
-        "Stamina": 93,
-        "Type1": "psychic",
-        "Type2": "none"
-    },
-    "abra-normal": {
-        "Attack": 195,
-        "Defense": 82,
-        "Stamina": 93,
-        "Type1": "psychic",
-        "Type2": "none"
-    },
-    "abra-purified": {
-        "Attack": 195,
-        "Defense": 82,
-        "Stamina": 93,
-        "Type1": "psychic",
-        "Type2": "none"
-    },
-    "abra-shadow": {
         "Attack": 195,
         "Defense": 82,
         "Stamina": 93,
@@ -1231,49 +601,7 @@
         "Type1": "psychic",
         "Type2": "none"
     },
-    "kadabra-normal": {
-        "Attack": 232,
-        "Defense": 117,
-        "Stamina": 120,
-        "Type1": "psychic",
-        "Type2": "none"
-    },
-    "kadabra-purified": {
-        "Attack": 232,
-        "Defense": 117,
-        "Stamina": 120,
-        "Type1": "psychic",
-        "Type2": "none"
-    },
-    "kadabra-shadow": {
-        "Attack": 232,
-        "Defense": 117,
-        "Stamina": 120,
-        "Type1": "psychic",
-        "Type2": "none"
-    },
     "alakazam": {
-        "Attack": 271,
-        "Defense": 167,
-        "Stamina": 146,
-        "Type1": "psychic",
-        "Type2": "none"
-    },
-    "alakazam-normal": {
-        "Attack": 271,
-        "Defense": 167,
-        "Stamina": 146,
-        "Type1": "psychic",
-        "Type2": "none"
-    },
-    "alakazam-purified": {
-        "Attack": 271,
-        "Defense": 167,
-        "Stamina": 146,
-        "Type1": "psychic",
-        "Type2": "none"
-    },
-    "alakazam-shadow": {
         "Attack": 271,
         "Defense": 167,
         "Stamina": 146,
@@ -1497,20 +825,6 @@
         "Type1": "poison",
         "Type2": "none"
     },
-    "grimer-purified": {
-        "Attack": 135,
-        "Defense": 90,
-        "Stamina": 190,
-        "Type1": "poison",
-        "Type2": "none"
-    },
-    "grimer-shadow": {
-        "Attack": 135,
-        "Defense": 90,
-        "Stamina": 190,
-        "Type1": "poison",
-        "Type2": "none"
-    },
     "muk": {
         "Attack": 190,
         "Defense": 172,
@@ -1526,20 +840,6 @@
         "Type2": "dark"
     },
     "muk-normal": {
-        "Attack": 190,
-        "Defense": 172,
-        "Stamina": 233,
-        "Type1": "poison",
-        "Type2": "none"
-    },
-    "muk-purified": {
-        "Attack": 190,
-        "Defense": 172,
-        "Stamina": 233,
-        "Type1": "poison",
-        "Type2": "none"
-    },
-    "muk-shadow": {
         "Attack": 190,
         "Defense": 172,
         "Stamina": 233,
@@ -1595,49 +895,7 @@
         "Type1": "psychic",
         "Type2": "none"
     },
-    "drowzee-normal": {
-        "Attack": 89,
-        "Defense": 136,
-        "Stamina": 155,
-        "Type1": "psychic",
-        "Type2": "none"
-    },
-    "drowzee-purified": {
-        "Attack": 89,
-        "Defense": 136,
-        "Stamina": 155,
-        "Type1": "psychic",
-        "Type2": "none"
-    },
-    "drowzee-shadow": {
-        "Attack": 89,
-        "Defense": 136,
-        "Stamina": 155,
-        "Type1": "psychic",
-        "Type2": "none"
-    },
     "hypno": {
-        "Attack": 144,
-        "Defense": 193,
-        "Stamina": 198,
-        "Type1": "psychic",
-        "Type2": "none"
-    },
-    "hypno-normal": {
-        "Attack": 144,
-        "Defense": 193,
-        "Stamina": 198,
-        "Type1": "psychic",
-        "Type2": "none"
-    },
-    "hypno-purified": {
-        "Attack": 144,
-        "Defense": 193,
-        "Stamina": 198,
-        "Type1": "psychic",
-        "Type2": "none"
-    },
-    "hypno-shadow": {
         "Attack": 144,
         "Defense": 193,
         "Stamina": 198,
@@ -1707,27 +965,6 @@
         "Type1": "ground",
         "Type2": "none"
     },
-    "cubone-normal": {
-        "Attack": 90,
-        "Defense": 144,
-        "Stamina": 137,
-        "Type1": "ground",
-        "Type2": "none"
-    },
-    "cubone-purified": {
-        "Attack": 90,
-        "Defense": 144,
-        "Stamina": 137,
-        "Type1": "ground",
-        "Type2": "none"
-    },
-    "cubone-shadow": {
-        "Attack": 90,
-        "Defense": 144,
-        "Stamina": 137,
-        "Type1": "ground",
-        "Type2": "none"
-    },
     "marowak": {
         "Attack": 144,
         "Defense": 186,
@@ -1749,20 +986,6 @@
         "Type1": "ground",
         "Type2": "none"
     },
-    "marowak-purified": {
-        "Attack": 144,
-        "Defense": 186,
-        "Stamina": 155,
-        "Type1": "ground",
-        "Type2": "none"
-    },
-    "marowak-shadow": {
-        "Attack": 144,
-        "Defense": 186,
-        "Stamina": 155,
-        "Type1": "ground",
-        "Type2": "none"
-    },
     "hitmonlee": {
         "Attack": 224,
         "Defense": 181,
@@ -1771,27 +994,6 @@
         "Type2": "none"
     },
     "hitmonchan": {
-        "Attack": 193,
-        "Defense": 197,
-        "Stamina": 137,
-        "Type1": "fighting",
-        "Type2": "none"
-    },
-    "hitmonchan-normal": {
-        "Attack": 193,
-        "Defense": 197,
-        "Stamina": 137,
-        "Type1": "fighting",
-        "Type2": "none"
-    },
-    "hitmonchan-purified": {
-        "Attack": 193,
-        "Defense": 197,
-        "Stamina": 137,
-        "Type1": "fighting",
-        "Type2": "none"
-    },
-    "hitmonchan-shadow": {
         "Attack": 193,
         "Defense": 197,
         "Stamina": 137,
@@ -1910,27 +1112,6 @@
         "Type1": "bug",
         "Type2": "flying"
     },
-    "scyther-normal": {
-        "Attack": 218,
-        "Defense": 170,
-        "Stamina": 172,
-        "Type1": "bug",
-        "Type2": "flying"
-    },
-    "scyther-purified": {
-        "Attack": 218,
-        "Defense": 170,
-        "Stamina": 172,
-        "Type1": "bug",
-        "Type2": "flying"
-    },
-    "scyther-shadow": {
-        "Attack": 218,
-        "Defense": 170,
-        "Stamina": 172,
-        "Type1": "bug",
-        "Type2": "flying"
-    },
     "jynx": {
         "Attack": 223,
         "Defense": 151,
@@ -1945,49 +1126,7 @@
         "Type1": "electric",
         "Type2": "none"
     },
-    "electabuzz-normal": {
-        "Attack": 198,
-        "Defense": 158,
-        "Stamina": 163,
-        "Type1": "electric",
-        "Type2": "none"
-    },
-    "electabuzz-purified": {
-        "Attack": 198,
-        "Defense": 158,
-        "Stamina": 163,
-        "Type1": "electric",
-        "Type2": "none"
-    },
-    "electabuzz-shadow": {
-        "Attack": 198,
-        "Defense": 158,
-        "Stamina": 163,
-        "Type1": "electric",
-        "Type2": "none"
-    },
     "magmar": {
-        "Attack": 206,
-        "Defense": 154,
-        "Stamina": 163,
-        "Type1": "fire",
-        "Type2": "none"
-    },
-    "magmar-normal": {
-        "Attack": 206,
-        "Defense": 154,
-        "Stamina": 163,
-        "Type1": "fire",
-        "Type2": "none"
-    },
-    "magmar-purified": {
-        "Attack": 206,
-        "Defense": 154,
-        "Stamina": 163,
-        "Type1": "fire",
-        "Type2": "none"
-    },
-    "magmar-shadow": {
         "Attack": 206,
         "Defense": 154,
         "Stamina": 163,
@@ -2015,27 +1154,6 @@
         "Type1": "water",
         "Type2": "none"
     },
-    "magikarp-normal": {
-        "Attack": 29,
-        "Defense": 85,
-        "Stamina": 85,
-        "Type1": "water",
-        "Type2": "none"
-    },
-    "magikarp-purified": {
-        "Attack": 29,
-        "Defense": 85,
-        "Stamina": 85,
-        "Type1": "water",
-        "Type2": "none"
-    },
-    "magikarp-shadow": {
-        "Attack": 29,
-        "Defense": 85,
-        "Stamina": 85,
-        "Type1": "water",
-        "Type2": "none"
-    },
     "gyarados": {
         "Attack": 237,
         "Defense": 186,
@@ -2043,49 +1161,7 @@
         "Type1": "water",
         "Type2": "flying"
     },
-    "gyarados-normal": {
-        "Attack": 237,
-        "Defense": 186,
-        "Stamina": 216,
-        "Type1": "water",
-        "Type2": "flying"
-    },
-    "gyarados-purified": {
-        "Attack": 237,
-        "Defense": 186,
-        "Stamina": 216,
-        "Type1": "water",
-        "Type2": "flying"
-    },
-    "gyarados-shadow": {
-        "Attack": 237,
-        "Defense": 186,
-        "Stamina": 216,
-        "Type1": "water",
-        "Type2": "flying"
-    },
     "lapras": {
-        "Attack": 165,
-        "Defense": 174,
-        "Stamina": 277,
-        "Type1": "water",
-        "Type2": "ice"
-    },
-    "lapras-normal": {
-        "Attack": 165,
-        "Defense": 174,
-        "Stamina": 277,
-        "Type1": "water",
-        "Type2": "ice"
-    },
-    "lapras-purified": {
-        "Attack": 165,
-        "Defense": 174,
-        "Stamina": 277,
-        "Type1": "water",
-        "Type2": "ice"
-    },
-    "lapras-shadow": {
         "Attack": 165,
         "Defense": 174,
         "Stamina": 277,
@@ -2176,27 +1252,6 @@
         "Type1": "normal",
         "Type2": "none"
     },
-    "snorlax-normal": {
-        "Attack": 190,
-        "Defense": 169,
-        "Stamina": 330,
-        "Type1": "normal",
-        "Type2": "none"
-    },
-    "snorlax-purified": {
-        "Attack": 190,
-        "Defense": 169,
-        "Stamina": 330,
-        "Type1": "normal",
-        "Type2": "none"
-    },
-    "snorlax-shadow": {
-        "Attack": 190,
-        "Defense": 169,
-        "Stamina": 330,
-        "Type1": "normal",
-        "Type2": "none"
-    },
     "articuno": {
         "Attack": 192,
         "Defense": 236,
@@ -2225,49 +1280,7 @@
         "Type1": "dragon",
         "Type2": "none"
     },
-    "dratini-normal": {
-        "Attack": 119,
-        "Defense": 91,
-        "Stamina": 121,
-        "Type1": "dragon",
-        "Type2": "none"
-    },
-    "dratini-purified": {
-        "Attack": 119,
-        "Defense": 91,
-        "Stamina": 121,
-        "Type1": "dragon",
-        "Type2": "none"
-    },
-    "dratini-shadow": {
-        "Attack": 119,
-        "Defense": 91,
-        "Stamina": 121,
-        "Type1": "dragon",
-        "Type2": "none"
-    },
     "dragonair": {
-        "Attack": 163,
-        "Defense": 135,
-        "Stamina": 156,
-        "Type1": "dragon",
-        "Type2": "none"
-    },
-    "dragonair-normal": {
-        "Attack": 163,
-        "Defense": 135,
-        "Stamina": 156,
-        "Type1": "dragon",
-        "Type2": "none"
-    },
-    "dragonair-purified": {
-        "Attack": 163,
-        "Defense": 135,
-        "Stamina": 156,
-        "Type1": "dragon",
-        "Type2": "none"
-    },
-    "dragonair-shadow": {
         "Attack": 163,
         "Defense": 135,
         "Stamina": 156,
@@ -2281,42 +1294,7 @@
         "Type1": "dragon",
         "Type2": "flying"
     },
-    "dragonite-normal": {
-        "Attack": 263,
-        "Defense": 198,
-        "Stamina": 209,
-        "Type1": "dragon",
-        "Type2": "flying"
-    },
-    "dragonite-purified": {
-        "Attack": 263,
-        "Defense": 198,
-        "Stamina": 209,
-        "Type1": "dragon",
-        "Type2": "flying"
-    },
-    "dragonite-shadow": {
-        "Attack": 263,
-        "Defense": 198,
-        "Stamina": 209,
-        "Type1": "dragon",
-        "Type2": "flying"
-    },
     "mewtwo": {
-        "Attack": 300,
-        "Defense": 182,
-        "Stamina": 214,
-        "Type1": "psychic",
-        "Type2": "none"
-    },
-    "mewtwo-armored": {
-        "Attack": 182,
-        "Defense": 278,
-        "Stamina": 214,
-        "Type1": "psychic",
-        "Type2": "none"
-    },
-    "mewtwo-normal": {
         "Attack": 300,
         "Defense": 182,
         "Stamina": 214,
@@ -2456,27 +1434,6 @@
         "Type1": "poison",
         "Type2": "flying"
     },
-    "crobat-normal": {
-        "Attack": 194,
-        "Defense": 178,
-        "Stamina": 198,
-        "Type1": "poison",
-        "Type2": "flying"
-    },
-    "crobat-purified": {
-        "Attack": 194,
-        "Defense": 178,
-        "Stamina": 198,
-        "Type1": "poison",
-        "Type2": "flying"
-    },
-    "crobat-shadow": {
-        "Attack": 194,
-        "Defense": 178,
-        "Stamina": 198,
-        "Type1": "poison",
-        "Type2": "flying"
-    },
     "chinchou": {
         "Attack": 106,
         "Defense": 97,
@@ -2547,49 +1504,7 @@
         "Type1": "electric",
         "Type2": "none"
     },
-    "mareep-normal": {
-        "Attack": 114,
-        "Defense": 79,
-        "Stamina": 146,
-        "Type1": "electric",
-        "Type2": "none"
-    },
-    "mareep-purified": {
-        "Attack": 114,
-        "Defense": 79,
-        "Stamina": 146,
-        "Type1": "electric",
-        "Type2": "none"
-    },
-    "mareep-shadow": {
-        "Attack": 114,
-        "Defense": 79,
-        "Stamina": 146,
-        "Type1": "electric",
-        "Type2": "none"
-    },
     "flaaffy": {
-        "Attack": 145,
-        "Defense": 109,
-        "Stamina": 172,
-        "Type1": "electric",
-        "Type2": "none"
-    },
-    "flaaffy-normal": {
-        "Attack": 145,
-        "Defense": 109,
-        "Stamina": 172,
-        "Type1": "electric",
-        "Type2": "none"
-    },
-    "flaaffy-purified": {
-        "Attack": 145,
-        "Defense": 109,
-        "Stamina": 172,
-        "Type1": "electric",
-        "Type2": "none"
-    },
-    "flaaffy-shadow": {
         "Attack": 145,
         "Defense": 109,
         "Stamina": 172,
@@ -2603,49 +1518,7 @@
         "Type1": "electric",
         "Type2": "none"
     },
-    "ampharos-normal": {
-        "Attack": 211,
-        "Defense": 169,
-        "Stamina": 207,
-        "Type1": "electric",
-        "Type2": "none"
-    },
-    "ampharos-purified": {
-        "Attack": 211,
-        "Defense": 169,
-        "Stamina": 207,
-        "Type1": "electric",
-        "Type2": "none"
-    },
-    "ampharos-shadow": {
-        "Attack": 211,
-        "Defense": 169,
-        "Stamina": 207,
-        "Type1": "electric",
-        "Type2": "none"
-    },
     "bellossom": {
-        "Attack": 169,
-        "Defense": 186,
-        "Stamina": 181,
-        "Type1": "grass",
-        "Type2": "none"
-    },
-    "bellossom-normal": {
-        "Attack": 169,
-        "Defense": 186,
-        "Stamina": 181,
-        "Type1": "grass",
-        "Type2": "none"
-    },
-    "bellossom-purified": {
-        "Attack": 169,
-        "Defense": 186,
-        "Stamina": 181,
-        "Type1": "grass",
-        "Type2": "none"
-    },
-    "bellossom-shadow": {
         "Attack": 169,
         "Defense": 186,
         "Stamina": 181,
@@ -2674,27 +1547,6 @@
         "Type2": "none"
     },
     "politoed": {
-        "Attack": 174,
-        "Defense": 179,
-        "Stamina": 207,
-        "Type1": "water",
-        "Type2": "none"
-    },
-    "politoed-normal": {
-        "Attack": 174,
-        "Defense": 179,
-        "Stamina": 207,
-        "Type1": "water",
-        "Type2": "none"
-    },
-    "politoed-purified": {
-        "Attack": 174,
-        "Defense": 179,
-        "Stamina": 207,
-        "Type1": "water",
-        "Type2": "none"
-    },
-    "politoed-shadow": {
         "Attack": 174,
         "Defense": 179,
         "Stamina": 207,
@@ -2883,27 +1735,6 @@
         "Type1": "bug",
         "Type2": "steel"
     },
-    "scizor-normal": {
-        "Attack": 236,
-        "Defense": 181,
-        "Stamina": 172,
-        "Type1": "bug",
-        "Type2": "steel"
-    },
-    "scizor-purified": {
-        "Attack": 236,
-        "Defense": 181,
-        "Stamina": 172,
-        "Type1": "bug",
-        "Type2": "steel"
-    },
-    "scizor-shadow": {
-        "Attack": 236,
-        "Defense": 181,
-        "Stamina": 172,
-        "Type1": "bug",
-        "Type2": "steel"
-    },
     "shuckle": {
         "Attack": 17,
         "Defense": 396,
@@ -3016,49 +1847,7 @@
         "Type1": "dark",
         "Type2": "fire"
     },
-    "houndour-normal": {
-        "Attack": 152,
-        "Defense": 83,
-        "Stamina": 128,
-        "Type1": "dark",
-        "Type2": "fire"
-    },
-    "houndour-purified": {
-        "Attack": 152,
-        "Defense": 83,
-        "Stamina": 128,
-        "Type1": "dark",
-        "Type2": "fire"
-    },
-    "houndour-shadow": {
-        "Attack": 152,
-        "Defense": 83,
-        "Stamina": 128,
-        "Type1": "dark",
-        "Type2": "fire"
-    },
     "houndoom": {
-        "Attack": 224,
-        "Defense": 144,
-        "Stamina": 181,
-        "Type1": "dark",
-        "Type2": "fire"
-    },
-    "houndoom-normal": {
-        "Attack": 224,
-        "Defense": 144,
-        "Stamina": 181,
-        "Type1": "dark",
-        "Type2": "fire"
-    },
-    "houndoom-purified": {
-        "Attack": 224,
-        "Defense": 144,
-        "Stamina": 181,
-        "Type1": "dark",
-        "Type2": "fire"
-    },
-    "houndoom-shadow": {
         "Attack": 224,
         "Defense": 144,
         "Stamina": 181,
@@ -3184,27 +1973,6 @@
         "Type1": "rock",
         "Type2": "ground"
     },
-    "larvitar-normal": {
-        "Attack": 115,
-        "Defense": 93,
-        "Stamina": 137,
-        "Type1": "rock",
-        "Type2": "ground"
-    },
-    "larvitar-purified": {
-        "Attack": 115,
-        "Defense": 93,
-        "Stamina": 137,
-        "Type1": "rock",
-        "Type2": "ground"
-    },
-    "larvitar-shadow": {
-        "Attack": 115,
-        "Defense": 93,
-        "Stamina": 137,
-        "Type1": "rock",
-        "Type2": "ground"
-    },
     "pupitar": {
         "Attack": 155,
         "Defense": 133,
@@ -3212,49 +1980,7 @@
         "Type1": "rock",
         "Type2": "ground"
     },
-    "pupitar-normal": {
-        "Attack": 155,
-        "Defense": 133,
-        "Stamina": 172,
-        "Type1": "rock",
-        "Type2": "ground"
-    },
-    "pupitar-purified": {
-        "Attack": 155,
-        "Defense": 133,
-        "Stamina": 172,
-        "Type1": "rock",
-        "Type2": "ground"
-    },
-    "pupitar-shadow": {
-        "Attack": 155,
-        "Defense": 133,
-        "Stamina": 172,
-        "Type1": "rock",
-        "Type2": "ground"
-    },
     "tyranitar": {
-        "Attack": 251,
-        "Defense": 207,
-        "Stamina": 225,
-        "Type1": "rock",
-        "Type2": "dark"
-    },
-    "tyranitar-normal": {
-        "Attack": 251,
-        "Defense": 207,
-        "Stamina": 225,
-        "Type1": "rock",
-        "Type2": "dark"
-    },
-    "tyranitar-purified": {
-        "Attack": 251,
-        "Defense": 207,
-        "Stamina": 225,
-        "Type1": "rock",
-        "Type2": "dark"
-    },
-    "tyranitar-shadow": {
         "Attack": 251,
         "Defense": 207,
         "Stamina": 225,
@@ -3331,27 +2057,6 @@
         "Type1": "water",
         "Type2": "none"
     },
-    "mudkip-normal": {
-        "Attack": 126,
-        "Defense": 93,
-        "Stamina": 137,
-        "Type1": "water",
-        "Type2": "none"
-    },
-    "mudkip-purified": {
-        "Attack": 126,
-        "Defense": 93,
-        "Stamina": 137,
-        "Type1": "water",
-        "Type2": "none"
-    },
-    "mudkip-shadow": {
-        "Attack": 126,
-        "Defense": 93,
-        "Stamina": 137,
-        "Type1": "water",
-        "Type2": "none"
-    },
     "marshtomp": {
         "Attack": 156,
         "Defense": 133,
@@ -3359,49 +2064,7 @@
         "Type1": "water",
         "Type2": "ground"
     },
-    "marshtomp-normal": {
-        "Attack": 156,
-        "Defense": 133,
-        "Stamina": 172,
-        "Type1": "water",
-        "Type2": "ground"
-    },
-    "marshtomp-purified": {
-        "Attack": 156,
-        "Defense": 133,
-        "Stamina": 172,
-        "Type1": "water",
-        "Type2": "ground"
-    },
-    "marshtomp-shadow": {
-        "Attack": 156,
-        "Defense": 133,
-        "Stamina": 172,
-        "Type1": "water",
-        "Type2": "ground"
-    },
     "swampert": {
-        "Attack": 208,
-        "Defense": 175,
-        "Stamina": 225,
-        "Type1": "water",
-        "Type2": "ground"
-    },
-    "swampert-normal": {
-        "Attack": 208,
-        "Defense": 175,
-        "Stamina": 225,
-        "Type1": "water",
-        "Type2": "ground"
-    },
-    "swampert-purified": {
-        "Attack": 208,
-        "Defense": 175,
-        "Stamina": 225,
-        "Type1": "water",
-        "Type2": "ground"
-    },
-    "swampert-shadow": {
         "Attack": 208,
         "Defense": 175,
         "Stamina": 225,
@@ -3499,27 +2162,6 @@
         "Type1": "grass",
         "Type2": "none"
     },
-    "seedot-normal": {
-        "Attack": 71,
-        "Defense": 77,
-        "Stamina": 120,
-        "Type1": "grass",
-        "Type2": "none"
-    },
-    "seedot-purified": {
-        "Attack": 71,
-        "Defense": 77,
-        "Stamina": 120,
-        "Type1": "grass",
-        "Type2": "none"
-    },
-    "seedot-shadow": {
-        "Attack": 71,
-        "Defense": 77,
-        "Stamina": 120,
-        "Type1": "grass",
-        "Type2": "none"
-    },
     "nuzleaf": {
         "Attack": 134,
         "Defense": 78,
@@ -3527,49 +2169,7 @@
         "Type1": "grass",
         "Type2": "dark"
     },
-    "nuzleaf-normal": {
-        "Attack": 134,
-        "Defense": 78,
-        "Stamina": 172,
-        "Type1": "grass",
-        "Type2": "dark"
-    },
-    "nuzleaf-purified": {
-        "Attack": 134,
-        "Defense": 78,
-        "Stamina": 172,
-        "Type1": "grass",
-        "Type2": "dark"
-    },
-    "nuzleaf-shadow": {
-        "Attack": 134,
-        "Defense": 78,
-        "Stamina": 172,
-        "Type1": "grass",
-        "Type2": "dark"
-    },
     "shiftry": {
-        "Attack": 200,
-        "Defense": 121,
-        "Stamina": 207,
-        "Type1": "grass",
-        "Type2": "dark"
-    },
-    "shiftry-normal": {
-        "Attack": 200,
-        "Defense": 121,
-        "Stamina": 207,
-        "Type1": "grass",
-        "Type2": "dark"
-    },
-    "shiftry-purified": {
-        "Attack": 200,
-        "Defense": 121,
-        "Stamina": 207,
-        "Type1": "grass",
-        "Type2": "dark"
-    },
-    "shiftry-shadow": {
         "Attack": 200,
         "Defense": 121,
         "Stamina": 207,
@@ -3611,27 +2211,6 @@
         "Type1": "psychic",
         "Type2": "fairy"
     },
-    "ralts-normal": {
-        "Attack": 79,
-        "Defense": 59,
-        "Stamina": 99,
-        "Type1": "psychic",
-        "Type2": "fairy"
-    },
-    "ralts-purified": {
-        "Attack": 79,
-        "Defense": 59,
-        "Stamina": 99,
-        "Type1": "psychic",
-        "Type2": "fairy"
-    },
-    "ralts-shadow": {
-        "Attack": 79,
-        "Defense": 59,
-        "Stamina": 99,
-        "Type1": "psychic",
-        "Type2": "fairy"
-    },
     "kirlia": {
         "Attack": 117,
         "Defense": 90,
@@ -3639,49 +2218,7 @@
         "Type1": "psychic",
         "Type2": "fairy"
     },
-    "kirlia-normal": {
-        "Attack": 117,
-        "Defense": 90,
-        "Stamina": 116,
-        "Type1": "psychic",
-        "Type2": "fairy"
-    },
-    "kirlia-purified": {
-        "Attack": 117,
-        "Defense": 90,
-        "Stamina": 116,
-        "Type1": "psychic",
-        "Type2": "fairy"
-    },
-    "kirlia-shadow": {
-        "Attack": 117,
-        "Defense": 90,
-        "Stamina": 116,
-        "Type1": "psychic",
-        "Type2": "fairy"
-    },
     "gardevoir": {
-        "Attack": 237,
-        "Defense": 195,
-        "Stamina": 169,
-        "Type1": "psychic",
-        "Type2": "fairy"
-    },
-    "gardevoir-normal": {
-        "Attack": 237,
-        "Defense": 195,
-        "Stamina": 169,
-        "Type1": "psychic",
-        "Type2": "fairy"
-    },
-    "gardevoir-purified": {
-        "Attack": 237,
-        "Defense": 195,
-        "Stamina": 169,
-        "Type1": "psychic",
-        "Type2": "fairy"
-    },
-    "gardevoir-shadow": {
         "Attack": 237,
         "Defense": 195,
         "Stamina": 169,
@@ -3745,7 +2282,7 @@
         "Type2": "ground"
     },
     "ninjask": {
-        "Attack": 199,
+        "Attack": 196,
         "Defense": 112,
         "Stamina": 156,
         "Type1": "bug",
@@ -3822,27 +2359,6 @@
         "Type2": "none"
     },
     "sableye": {
-        "Attack": 141,
-        "Defense": 136,
-        "Stamina": 137,
-        "Type1": "dark",
-        "Type2": "ghost"
-    },
-    "sableye-normal": {
-        "Attack": 141,
-        "Defense": 136,
-        "Stamina": 137,
-        "Type1": "dark",
-        "Type2": "ghost"
-    },
-    "sableye-purified": {
-        "Attack": 141,
-        "Defense": 136,
-        "Stamina": 137,
-        "Type1": "dark",
-        "Type2": "ghost"
-    },
-    "sableye-shadow": {
         "Attack": 141,
         "Defense": 136,
         "Stamina": 137,
@@ -4031,49 +2547,7 @@
         "Type1": "ground",
         "Type2": "none"
     },
-    "trapinch-normal": {
-        "Attack": 162,
-        "Defense": 78,
-        "Stamina": 128,
-        "Type1": "ground",
-        "Type2": "none"
-    },
-    "trapinch-purified": {
-        "Attack": 162,
-        "Defense": 78,
-        "Stamina": 128,
-        "Type1": "ground",
-        "Type2": "none"
-    },
-    "trapinch-shadow": {
-        "Attack": 162,
-        "Defense": 78,
-        "Stamina": 128,
-        "Type1": "ground",
-        "Type2": "none"
-    },
     "vibrava": {
-        "Attack": 134,
-        "Defense": 99,
-        "Stamina": 137,
-        "Type1": "ground",
-        "Type2": "dragon"
-    },
-    "vibrava-normal": {
-        "Attack": 134,
-        "Defense": 99,
-        "Stamina": 137,
-        "Type1": "ground",
-        "Type2": "dragon"
-    },
-    "vibrava-purified": {
-        "Attack": 134,
-        "Defense": 99,
-        "Stamina": 137,
-        "Type1": "ground",
-        "Type2": "dragon"
-    },
-    "vibrava-shadow": {
         "Attack": 134,
         "Defense": 99,
         "Stamina": 137,
@@ -4087,27 +2561,6 @@
         "Type1": "ground",
         "Type2": "dragon"
     },
-    "flygon-normal": {
-        "Attack": 205,
-        "Defense": 168,
-        "Stamina": 190,
-        "Type1": "ground",
-        "Type2": "dragon"
-    },
-    "flygon-purified": {
-        "Attack": 205,
-        "Defense": 168,
-        "Stamina": 190,
-        "Type1": "ground",
-        "Type2": "dragon"
-    },
-    "flygon-shadow": {
-        "Attack": 205,
-        "Defense": 168,
-        "Stamina": 190,
-        "Type1": "ground",
-        "Type2": "dragon"
-    },
     "cacnea": {
         "Attack": 156,
         "Defense": 74,
@@ -4115,49 +2568,7 @@
         "Type1": "grass",
         "Type2": "none"
     },
-    "cacnea-normal": {
-        "Attack": 156,
-        "Defense": 74,
-        "Stamina": 137,
-        "Type1": "grass",
-        "Type2": "none"
-    },
-    "cacnea-purified": {
-        "Attack": 156,
-        "Defense": 74,
-        "Stamina": 137,
-        "Type1": "grass",
-        "Type2": "none"
-    },
-    "cacnea-shadow": {
-        "Attack": 156,
-        "Defense": 74,
-        "Stamina": 137,
-        "Type1": "grass",
-        "Type2": "none"
-    },
     "cacturne": {
-        "Attack": 221,
-        "Defense": 115,
-        "Stamina": 172,
-        "Type1": "grass",
-        "Type2": "dark"
-    },
-    "cacturne-normal": {
-        "Attack": 221,
-        "Defense": 115,
-        "Stamina": 172,
-        "Type1": "grass",
-        "Type2": "dark"
-    },
-    "cacturne-purified": {
-        "Attack": 221,
-        "Defense": 115,
-        "Stamina": 172,
-        "Type1": "grass",
-        "Type2": "dark"
-    },
-    "cacturne-shadow": {
         "Attack": 221,
         "Defense": 115,
         "Stamina": 172,
@@ -4339,49 +2750,7 @@
         "Type1": "ghost",
         "Type2": "none"
     },
-    "shuppet-normal": {
-        "Attack": 138,
-        "Defense": 65,
-        "Stamina": 127,
-        "Type1": "ghost",
-        "Type2": "none"
-    },
-    "shuppet-purified": {
-        "Attack": 138,
-        "Defense": 65,
-        "Stamina": 127,
-        "Type1": "ghost",
-        "Type2": "none"
-    },
-    "shuppet-shadow": {
-        "Attack": 138,
-        "Defense": 65,
-        "Stamina": 127,
-        "Type1": "ghost",
-        "Type2": "none"
-    },
     "banette": {
-        "Attack": 218,
-        "Defense": 126,
-        "Stamina": 162,
-        "Type1": "ghost",
-        "Type2": "none"
-    },
-    "banette-normal": {
-        "Attack": 218,
-        "Defense": 126,
-        "Stamina": 162,
-        "Type1": "ghost",
-        "Type2": "none"
-    },
-    "banette-purified": {
-        "Attack": 218,
-        "Defense": 126,
-        "Stamina": 162,
-        "Type1": "ghost",
-        "Type2": "none"
-    },
-    "banette-shadow": {
         "Attack": 218,
         "Defense": 126,
         "Stamina": 162,
@@ -4395,49 +2764,7 @@
         "Type1": "ghost",
         "Type2": "none"
     },
-    "duskull-normal": {
-        "Attack": 70,
-        "Defense": 162,
-        "Stamina": 85,
-        "Type1": "ghost",
-        "Type2": "none"
-    },
-    "duskull-purified": {
-        "Attack": 70,
-        "Defense": 162,
-        "Stamina": 85,
-        "Type1": "ghost",
-        "Type2": "none"
-    },
-    "duskull-shadow": {
-        "Attack": 70,
-        "Defense": 162,
-        "Stamina": 85,
-        "Type1": "ghost",
-        "Type2": "none"
-    },
     "dusclops": {
-        "Attack": 124,
-        "Defense": 234,
-        "Stamina": 120,
-        "Type1": "ghost",
-        "Type2": "none"
-    },
-    "dusclops-normal": {
-        "Attack": 124,
-        "Defense": 234,
-        "Stamina": 120,
-        "Type1": "ghost",
-        "Type2": "none"
-    },
-    "dusclops-purified": {
-        "Attack": 124,
-        "Defense": 234,
-        "Stamina": 120,
-        "Type1": "ghost",
-        "Type2": "none"
-    },
-    "dusclops-shadow": {
         "Attack": 124,
         "Defense": 234,
         "Stamina": 120,
@@ -4689,27 +3016,6 @@
         "Type1": "grass",
         "Type2": "none"
     },
-    "turtwig-normal": {
-        "Attack": 119,
-        "Defense": 110,
-        "Stamina": 146,
-        "Type1": "grass",
-        "Type2": "none"
-    },
-    "turtwig-purified": {
-        "Attack": 119,
-        "Defense": 110,
-        "Stamina": 146,
-        "Type1": "grass",
-        "Type2": "none"
-    },
-    "turtwig-shadow": {
-        "Attack": 119,
-        "Defense": 110,
-        "Stamina": 146,
-        "Type1": "grass",
-        "Type2": "none"
-    },
     "grotle": {
         "Attack": 157,
         "Defense": 143,
@@ -4717,49 +3023,7 @@
         "Type1": "grass",
         "Type2": "none"
     },
-    "grotle-normal": {
-        "Attack": 157,
-        "Defense": 143,
-        "Stamina": 181,
-        "Type1": "grass",
-        "Type2": "none"
-    },
-    "grotle-purified": {
-        "Attack": 157,
-        "Defense": 143,
-        "Stamina": 181,
-        "Type1": "grass",
-        "Type2": "none"
-    },
-    "grotle-shadow": {
-        "Attack": 157,
-        "Defense": 143,
-        "Stamina": 181,
-        "Type1": "grass",
-        "Type2": "none"
-    },
     "torterra": {
-        "Attack": 202,
-        "Defense": 188,
-        "Stamina": 216,
-        "Type1": "grass",
-        "Type2": "ground"
-    },
-    "torterra-normal": {
-        "Attack": 202,
-        "Defense": 188,
-        "Stamina": 216,
-        "Type1": "grass",
-        "Type2": "ground"
-    },
-    "torterra-purified": {
-        "Attack": 202,
-        "Defense": 188,
-        "Stamina": 216,
-        "Type1": "grass",
-        "Type2": "ground"
-    },
-    "torterra-shadow": {
         "Attack": 202,
         "Defense": 188,
         "Stamina": 216,
@@ -4897,14 +3161,14 @@
         "Defense": 71,
         "Stamina": 167,
         "Type1": "rock",
-        "Type2": "none"
+        "Type2": "rock"
     },
     "rampardos": {
         "Attack": 295,
         "Defense": 109,
         "Stamina": 219,
         "Type1": "rock",
-        "Type2": "none"
+        "Type2": "rock"
     },
     "shieldon": {
         "Attack": 76,
@@ -4921,27 +3185,6 @@
         "Type2": "steel"
     },
     "burmy": {
-        "Attack": 53,
-        "Defense": 83,
-        "Stamina": 120,
-        "Type1": "bug",
-        "Type2": "none"
-    },
-    "burmy-plant": {
-        "Attack": 53,
-        "Defense": 83,
-        "Stamina": 120,
-        "Type1": "bug",
-        "Type2": "none"
-    },
-    "burmy-sandy": {
-        "Attack": 53,
-        "Defense": 83,
-        "Stamina": 120,
-        "Type1": "bug",
-        "Type2": "none"
-    },
-    "burmy-trash": {
         "Attack": 53,
         "Defense": 83,
         "Stamina": 120,
@@ -5389,49 +3632,7 @@
         "Type1": "electric",
         "Type2": "none"
     },
-    "electivire-normal": {
-        "Attack": 249,
-        "Defense": 163,
-        "Stamina": 181,
-        "Type1": "electric",
-        "Type2": "none"
-    },
-    "electivire-purified": {
-        "Attack": 249,
-        "Defense": 163,
-        "Stamina": 181,
-        "Type1": "electric",
-        "Type2": "none"
-    },
-    "electivire-shadow": {
-        "Attack": 249,
-        "Defense": 163,
-        "Stamina": 181,
-        "Type1": "electric",
-        "Type2": "none"
-    },
     "magmortar": {
-        "Attack": 247,
-        "Defense": 172,
-        "Stamina": 181,
-        "Type1": "fire",
-        "Type2": "none"
-    },
-    "magmortar-normal": {
-        "Attack": 247,
-        "Defense": 172,
-        "Stamina": 181,
-        "Type1": "fire",
-        "Type2": "none"
-    },
-    "magmortar-purified": {
-        "Attack": 247,
-        "Defense": 172,
-        "Stamina": 181,
-        "Type1": "fire",
-        "Type2": "none"
-    },
-    "magmortar-shadow": {
         "Attack": 247,
         "Defense": 172,
         "Stamina": 181,
@@ -5494,27 +3695,6 @@
         "Type1": "psychic",
         "Type2": "fighting"
     },
-    "gallade-normal": {
-        "Attack": 237,
-        "Defense": 195,
-        "Stamina": 169,
-        "Type1": "psychic",
-        "Type2": "fighting"
-    },
-    "gallade-purified": {
-        "Attack": 237,
-        "Defense": 195,
-        "Stamina": 169,
-        "Type1": "psychic",
-        "Type2": "fighting"
-    },
-    "gallade-shadow": {
-        "Attack": 237,
-        "Defense": 195,
-        "Stamina": 169,
-        "Type1": "psychic",
-        "Type2": "fighting"
-    },
     "probopass": {
         "Attack": 135,
         "Defense": 275,
@@ -5523,27 +3703,6 @@
         "Type2": "steel"
     },
     "dusknoir": {
-        "Attack": 180,
-        "Defense": 254,
-        "Stamina": 128,
-        "Type1": "ghost",
-        "Type2": "none"
-    },
-    "dusknoir-normal": {
-        "Attack": 180,
-        "Defense": 254,
-        "Stamina": 128,
-        "Type1": "ghost",
-        "Type2": "none"
-    },
-    "dusknoir-purified": {
-        "Attack": 180,
-        "Defense": 254,
-        "Stamina": 128,
-        "Type1": "ghost",
-        "Type2": "none"
-    },
-    "dusknoir-shadow": {
         "Attack": 180,
         "Defense": 254,
         "Stamina": 128,
@@ -5858,1318 +4017,16 @@
         "Type1": "water",
         "Type2": "none"
     },
-    "victini": {
-        "Attack": 210,
-        "Defense": 210,
-        "Stamina": 225,
-        "Type1": "psychic",
-        "Type2": "fire"
-    },
-    "snivy": {
-        "Attack": 88,
-        "Defense": 107,
-        "Stamina": 128,
-        "Type1": "grass",
-        "Type2": "none"
-    },
-    "servine": {
-        "Attack": 122,
-        "Defense": 152,
-        "Stamina": 155,
-        "Type1": "grass",
-        "Type2": "none"
-    },
-    "serperior": {
-        "Attack": 161,
-        "Defense": 204,
-        "Stamina": 181,
-        "Type1": "grass",
-        "Type2": "none"
-    },
-    "tepig": {
-        "Attack": 115,
-        "Defense": 85,
-        "Stamina": 163,
-        "Type1": "fire",
-        "Type2": "none"
-    },
-    "pignite": {
-        "Attack": 173,
-        "Defense": 106,
-        "Stamina": 207,
-        "Type1": "fire",
-        "Type2": "fighting"
-    },
-    "emboar": {
-        "Attack": 235,
-        "Defense": 127,
-        "Stamina": 242,
-        "Type1": "fire",
-        "Type2": "fighting"
-    },
-    "oshawott": {
-        "Attack": 117,
-        "Defense": 85,
-        "Stamina": 146,
-        "Type1": "water",
-        "Type2": "none"
-    },
-    "dewott": {
-        "Attack": 159,
-        "Defense": 116,
-        "Stamina": 181,
-        "Type1": "water",
-        "Type2": "none"
-    },
-    "samurott": {
-        "Attack": 212,
-        "Defense": 157,
-        "Stamina": 216,
-        "Type1": "water",
-        "Type2": "none"
-    },
-    "patrat": {
-        "Attack": 98,
-        "Defense": 73,
-        "Stamina": 128,
-        "Type1": "normal",
-        "Type2": "none"
-    },
-    "watchog": {
-        "Attack": 165,
-        "Defense": 139,
-        "Stamina": 155,
-        "Type1": "normal",
-        "Type2": "none"
-    },
-    "lillipup": {
-        "Attack": 107,
-        "Defense": 86,
-        "Stamina": 128,
-        "Type1": "normal",
-        "Type2": "none"
-    },
-    "herdier": {
-        "Attack": 145,
-        "Defense": 126,
-        "Stamina": 163,
-        "Type1": "normal",
-        "Type2": "none"
-    },
-    "stoutland": {
-        "Attack": 206,
-        "Defense": 182,
-        "Stamina": 198,
-        "Type1": "normal",
-        "Type2": "none"
-    },
-    "purrloin": {
-        "Attack": 98,
-        "Defense": 73,
-        "Stamina": 121,
-        "Type1": "dark",
-        "Type2": "none"
-    },
-    "liepard": {
-        "Attack": 187,
-        "Defense": 106,
-        "Stamina": 162,
-        "Type1": "dark",
-        "Type2": "none"
-    },
-    "pansage": {
-        "Attack": 104,
-        "Defense": 94,
-        "Stamina": 137,
-        "Type1": "grass",
-        "Type2": "none"
-    },
-    "simisage": {
-        "Attack": 206,
-        "Defense": 133,
-        "Stamina": 181,
-        "Type1": "grass",
-        "Type2": "none"
-    },
-    "pansear": {
-        "Attack": 104,
-        "Defense": 94,
-        "Stamina": 137,
-        "Type1": "fire",
-        "Type2": "none"
-    },
-    "simisear": {
-        "Attack": 206,
-        "Defense": 133,
-        "Stamina": 181,
-        "Type1": "fire",
-        "Type2": "none"
-    },
-    "panpour": {
-        "Attack": 104,
-        "Defense": 94,
-        "Stamina": 137,
-        "Type1": "water",
-        "Type2": "none"
-    },
-    "simipour": {
-        "Attack": 206,
-        "Defense": 133,
-        "Stamina": 181,
-        "Type1": "water",
-        "Type2": "none"
-    },
-    "munna": {
-        "Attack": 111,
-        "Defense": 92,
-        "Stamina": 183,
-        "Type1": "psychic",
-        "Type2": "none"
-    },
-    "musharna": {
-        "Attack": 183,
-        "Defense": 166,
-        "Stamina": 253,
-        "Type1": "psychic",
-        "Type2": "none"
-    },
-    "pidove": {
-        "Attack": 98,
-        "Defense": 80,
-        "Stamina": 137,
-        "Type1": "normal",
-        "Type2": "flying"
-    },
-    "tranquill": {
-        "Attack": 144,
-        "Defense": 107,
-        "Stamina": 158,
-        "Type1": "normal",
-        "Type2": "flying"
-    },
-    "unfezant": {
-        "Attack": 226,
-        "Defense": 146,
-        "Stamina": 190,
-        "Type1": "normal",
-        "Type2": "flying"
-    },
-    "blitzle": {
-        "Attack": 118,
-        "Defense": 64,
-        "Stamina": 128,
-        "Type1": "electric",
-        "Type2": "none"
-    },
-    "zebstrika": {
-        "Attack": 211,
-        "Defense": 136,
-        "Stamina": 181,
-        "Type1": "electric",
-        "Type2": "none"
-    },
-    "roggenrola": {
-        "Attack": 121,
-        "Defense": 110,
-        "Stamina": 146,
-        "Type1": "rock",
-        "Type2": "none"
-    },
-    "boldore": {
-        "Attack": 174,
-        "Defense": 143,
-        "Stamina": 172,
-        "Type1": "rock",
-        "Type2": "none"
-    },
-    "gigalith": {
-        "Attack": 226,
-        "Defense": 201,
-        "Stamina": 198,
-        "Type1": "rock",
-        "Type2": "none"
-    },
-    "woobat": {
-        "Attack": 107,
-        "Defense": 85,
-        "Stamina": 163,
-        "Type1": "psychic",
-        "Type2": "flying"
-    },
-    "swoobat": {
-        "Attack": 161,
-        "Defense": 119,
-        "Stamina": 167,
-        "Type1": "psychic",
-        "Type2": "flying"
-    },
-    "drilbur": {
-        "Attack": 154,
-        "Defense": 85,
-        "Stamina": 155,
-        "Type1": "ground",
-        "Type2": "none"
-    },
-    "excadrill": {
-        "Attack": 255,
-        "Defense": 129,
-        "Stamina": 242,
-        "Type1": "ground",
-        "Type2": "steel"
-    },
-    "audino": {
-        "Attack": 114,
-        "Defense": 163,
-        "Stamina": 230,
-        "Type1": "normal",
-        "Type2": "none"
-    },
-    "timburr": {
-        "Attack": 134,
-        "Defense": 87,
-        "Stamina": 181,
-        "Type1": "fighting",
-        "Type2": "none"
-    },
-    "gurdurr": {
-        "Attack": 180,
-        "Defense": 134,
-        "Stamina": 198,
-        "Type1": "fighting",
-        "Type2": "none"
-    },
-    "conkeldurr": {
-        "Attack": 243,
-        "Defense": 158,
-        "Stamina": 233,
-        "Type1": "fighting",
-        "Type2": "none"
-    },
-    "tympole": {
-        "Attack": 98,
-        "Defense": 78,
-        "Stamina": 137,
-        "Type1": "water",
-        "Type2": "none"
-    },
-    "palpitoad": {
-        "Attack": 128,
-        "Defense": 109,
-        "Stamina": 181,
-        "Type1": "water",
-        "Type2": "ground"
-    },
-    "seismitoad": {
-        "Attack": 188,
-        "Defense": 150,
-        "Stamina": 233,
-        "Type1": "water",
-        "Type2": "ground"
-    },
-    "throh": {
-        "Attack": 172,
-        "Defense": 160,
-        "Stamina": 260,
-        "Type1": "fighting",
-        "Type2": "none"
-    },
-    "sawk": {
-        "Attack": 231,
-        "Defense": 153,
-        "Stamina": 181,
-        "Type1": "fighting",
-        "Type2": "none"
-    },
-    "sewaddle": {
-        "Attack": 96,
-        "Defense": 124,
-        "Stamina": 128,
-        "Type1": "bug",
-        "Type2": "grass"
-    },
-    "swadloon": {
-        "Attack": 115,
-        "Defense": 162,
-        "Stamina": 146,
-        "Type1": "bug",
-        "Type2": "grass"
-    },
-    "leavanny": {
-        "Attack": 205,
-        "Defense": 165,
-        "Stamina": 181,
-        "Type1": "bug",
-        "Type2": "grass"
-    },
-    "venipede": {
-        "Attack": 83,
-        "Defense": 99,
-        "Stamina": 102,
-        "Type1": "bug",
-        "Type2": "poison"
-    },
-    "whirlipede": {
-        "Attack": 100,
-        "Defense": 173,
-        "Stamina": 120,
-        "Type1": "bug",
-        "Type2": "poison"
-    },
-    "scolipede": {
-        "Attack": 203,
-        "Defense": 175,
-        "Stamina": 155,
-        "Type1": "bug",
-        "Type2": "poison"
-    },
-    "cottonee": {
-        "Attack": 71,
-        "Defense": 111,
-        "Stamina": 120,
-        "Type1": "grass",
-        "Type2": "fairy"
-    },
-    "whimsicott": {
-        "Attack": 164,
-        "Defense": 176,
-        "Stamina": 155,
-        "Type1": "grass",
-        "Type2": "fairy"
-    },
-    "petilil": {
-        "Attack": 119,
-        "Defense": 91,
-        "Stamina": 128,
-        "Type1": "grass",
-        "Type2": "none"
-    },
-    "lilligant": {
-        "Attack": 214,
-        "Defense": 155,
-        "Stamina": 172,
-        "Type1": "grass",
-        "Type2": "none"
-    },
-    "basculin": {
-        "Attack": 189,
-        "Defense": 129,
-        "Stamina": 172,
-        "Type1": "water",
-        "Type2": "none"
-    },
-    "basculin-blue-striped": {
-        "Attack": 189,
-        "Defense": 129,
-        "Stamina": 172,
-        "Type1": "water",
-        "Type2": "none"
-    },
-    "basculin-red-striped": {
-        "Attack": 189,
-        "Defense": 129,
-        "Stamina": 172,
-        "Type1": "water",
-        "Type2": "none"
-    },
-    "sandile": {
-        "Attack": 132,
-        "Defense": 69,
-        "Stamina": 137,
-        "Type1": "ground",
-        "Type2": "dark"
-    },
-    "krokorok": {
-        "Attack": 155,
-        "Defense": 90,
-        "Stamina": 155,
-        "Type1": "ground",
-        "Type2": "dark"
-    },
-    "krookodile": {
-        "Attack": 229,
-        "Defense": 158,
-        "Stamina": 216,
-        "Type1": "ground",
-        "Type2": "dark"
-    },
-    "darumaka": {
-        "Attack": 153,
-        "Defense": 86,
-        "Stamina": 172,
-        "Type1": "fire",
-        "Type2": "none"
-    },
-    "darmanitan": {
-        "Attack": 263,
-        "Defense": 114,
-        "Stamina": 233,
-        "Type1": "fire",
-        "Type2": "none"
-    },
-    "darmanitan-standard": {
-        "Attack": 263,
-        "Defense": 114,
-        "Stamina": 233,
-        "Type1": "fire",
-        "Type2": "none"
-    },
-    "darmanitan-zen": {
-        "Attack": 243,
-        "Defense": 202,
-        "Stamina": 233,
-        "Type1": "fire",
-        "Type2": "psychic"
-    },
-    "maractus": {
-        "Attack": 201,
-        "Defense": 130,
-        "Stamina": 181,
-        "Type1": "grass",
-        "Type2": "none"
-    },
-    "dwebble": {
-        "Attack": 118,
-        "Defense": 128,
-        "Stamina": 137,
-        "Type1": "bug",
-        "Type2": "rock"
-    },
-    "crustle": {
-        "Attack": 188,
-        "Defense": 200,
-        "Stamina": 172,
-        "Type1": "bug",
-        "Type2": "rock"
-    },
-    "scraggy": {
-        "Attack": 132,
-        "Defense": 132,
-        "Stamina": 137,
-        "Type1": "dark",
-        "Type2": "fighting"
-    },
-    "scrafty": {
-        "Attack": 163,
-        "Defense": 222,
-        "Stamina": 163,
-        "Type1": "dark",
-        "Type2": "fighting"
-    },
-    "sigilyph": {
-        "Attack": 204,
-        "Defense": 167,
-        "Stamina": 176,
-        "Type1": "psychic",
-        "Type2": "flying"
-    },
-    "yamask": {
-        "Attack": 95,
-        "Defense": 141,
-        "Stamina": 116,
-        "Type1": "ghost",
-        "Type2": "none"
-    },
-    "cofagrigus": {
-        "Attack": 163,
-        "Defense": 237,
-        "Stamina": 151,
-        "Type1": "ghost",
-        "Type2": "none"
-    },
-    "tirtouga": {
-        "Attack": 134,
-        "Defense": 146,
-        "Stamina": 144,
-        "Type1": "water",
-        "Type2": "rock"
-    },
-    "carracosta": {
-        "Attack": 192,
-        "Defense": 197,
-        "Stamina": 179,
-        "Type1": "water",
-        "Type2": "rock"
-    },
-    "archen": {
-        "Attack": 213,
-        "Defense": 89,
-        "Stamina": 146,
-        "Type1": "rock",
-        "Type2": "flying"
-    },
-    "archeops": {
-        "Attack": 292,
-        "Defense": 139,
-        "Stamina": 181,
-        "Type1": "rock",
-        "Type2": "flying"
-    },
-    "trubbish": {
-        "Attack": 96,
-        "Defense": 122,
-        "Stamina": 137,
-        "Type1": "poison",
-        "Type2": "none"
-    },
-    "garbodor": {
-        "Attack": 181,
-        "Defense": 164,
-        "Stamina": 190,
-        "Type1": "poison",
-        "Type2": "none"
-    },
-    "zorua": {
-        "Attack": 153,
-        "Defense": 78,
-        "Stamina": 120,
-        "Type1": "dark",
-        "Type2": "none"
-    },
-    "zoroark": {
-        "Attack": 250,
-        "Defense": 127,
-        "Stamina": 155,
-        "Type1": "dark",
-        "Type2": "none"
-    },
-    "minccino": {
-        "Attack": 98,
-        "Defense": 80,
-        "Stamina": 146,
-        "Type1": "normal",
-        "Type2": "none"
-    },
-    "cinccino": {
-        "Attack": 198,
-        "Defense": 130,
-        "Stamina": 181,
-        "Type1": "normal",
-        "Type2": "none"
-    },
-    "gothita": {
-        "Attack": 98,
-        "Defense": 112,
-        "Stamina": 128,
-        "Type1": "psychic",
-        "Type2": "none"
-    },
-    "gothorita": {
-        "Attack": 137,
-        "Defense": 153,
-        "Stamina": 155,
-        "Type1": "psychic",
-        "Type2": "none"
-    },
-    "gothitelle": {
-        "Attack": 176,
-        "Defense": 205,
-        "Stamina": 172,
-        "Type1": "psychic",
-        "Type2": "none"
-    },
-    "solosis": {
-        "Attack": 170,
-        "Defense": 83,
-        "Stamina": 128,
-        "Type1": "psychic",
-        "Type2": "none"
-    },
-    "duosion": {
-        "Attack": 208,
-        "Defense": 103,
-        "Stamina": 163,
-        "Type1": "psychic",
-        "Type2": "none"
-    },
-    "reuniclus": {
-        "Attack": 214,
-        "Defense": 148,
-        "Stamina": 242,
-        "Type1": "psychic",
-        "Type2": "none"
-    },
-    "ducklett": {
-        "Attack": 84,
-        "Defense": 96,
-        "Stamina": 158,
-        "Type1": "water",
-        "Type2": "flying"
-    },
-    "swanna": {
-        "Attack": 182,
-        "Defense": 132,
-        "Stamina": 181,
-        "Type1": "water",
-        "Type2": "flying"
-    },
-    "vanillite": {
-        "Attack": 118,
-        "Defense": 106,
-        "Stamina": 113,
-        "Type1": "ice",
-        "Type2": "none"
-    },
-    "vanillish": {
-        "Attack": 151,
-        "Defense": 138,
-        "Stamina": 139,
-        "Type1": "ice",
-        "Type2": "none"
-    },
-    "vanilluxe": {
-        "Attack": 218,
-        "Defense": 184,
-        "Stamina": 174,
-        "Type1": "ice",
-        "Type2": "none"
-    },
-    "deerling": {
-        "Attack": 115,
-        "Defense": 100,
-        "Stamina": 155,
-        "Type1": "normal",
-        "Type2": "grass"
-    },
-    "deerling-autumn": {
-        "Attack": 115,
-        "Defense": 100,
-        "Stamina": 155,
-        "Type1": "normal",
-        "Type2": "grass"
-    },
-    "deerling-spring": {
-        "Attack": 115,
-        "Defense": 100,
-        "Stamina": 155,
-        "Type1": "normal",
-        "Type2": "grass"
-    },
-    "deerling-summer": {
-        "Attack": 115,
-        "Defense": 100,
-        "Stamina": 155,
-        "Type1": "normal",
-        "Type2": "grass"
-    },
-    "deerling-winter": {
-        "Attack": 115,
-        "Defense": 100,
-        "Stamina": 155,
-        "Type1": "normal",
-        "Type2": "grass"
-    },
-    "sawsbuck": {
-        "Attack": 198,
-        "Defense": 146,
-        "Stamina": 190,
-        "Type1": "normal",
-        "Type2": "grass"
-    },
-    "sawsbuck-autumn": {
-        "Attack": 198,
-        "Defense": 146,
-        "Stamina": 190,
-        "Type1": "normal",
-        "Type2": "grass"
-    },
-    "sawsbuck-spring": {
-        "Attack": 198,
-        "Defense": 146,
-        "Stamina": 190,
-        "Type1": "normal",
-        "Type2": "grass"
-    },
-    "sawsbuck-summer": {
-        "Attack": 198,
-        "Defense": 146,
-        "Stamina": 190,
-        "Type1": "normal",
-        "Type2": "grass"
-    },
-    "sawsbuck-winter": {
-        "Attack": 198,
-        "Defense": 146,
-        "Stamina": 190,
-        "Type1": "normal",
-        "Type2": "grass"
-    },
-    "emolga": {
-        "Attack": 158,
-        "Defense": 127,
-        "Stamina": 146,
-        "Type1": "electric",
-        "Type2": "flying"
-    },
-    "karrablast": {
-        "Attack": 137,
-        "Defense": 87,
-        "Stamina": 137,
-        "Type1": "bug",
-        "Type2": "none"
-    },
-    "escavalier": {
-        "Attack": 223,
-        "Defense": 187,
-        "Stamina": 172,
-        "Type1": "bug",
-        "Type2": "steel"
-    },
-    "foongus": {
-        "Attack": 97,
-        "Defense": 91,
-        "Stamina": 170,
-        "Type1": "grass",
-        "Type2": "poison"
-    },
-    "amoonguss": {
-        "Attack": 155,
-        "Defense": 139,
-        "Stamina": 249,
-        "Type1": "grass",
-        "Type2": "poison"
-    },
-    "frillish": {
-        "Attack": 115,
-        "Defense": 134,
-        "Stamina": 146,
-        "Type1": "water",
-        "Type2": "ghost"
-    },
-    "jellicent": {
-        "Attack": 159,
-        "Defense": 178,
-        "Stamina": 225,
-        "Type1": "water",
-        "Type2": "ghost"
-    },
-    "alomomola": {
-        "Attack": 138,
-        "Defense": 131,
-        "Stamina": 338,
-        "Type1": "water",
-        "Type2": "none"
-    },
-    "joltik": {
-        "Attack": 110,
-        "Defense": 98,
-        "Stamina": 137,
-        "Type1": "bug",
-        "Type2": "electric"
-    },
-    "galvantula": {
-        "Attack": 201,
-        "Defense": 128,
-        "Stamina": 172,
-        "Type1": "bug",
-        "Type2": "electric"
-    },
-    "ferroseed": {
-        "Attack": 82,
-        "Defense": 155,
-        "Stamina": 127,
-        "Type1": "grass",
-        "Type2": "steel"
-    },
-    "ferrothorn": {
-        "Attack": 158,
-        "Defense": 223,
-        "Stamina": 179,
-        "Type1": "grass",
-        "Type2": "steel"
-    },
-    "klink": {
-        "Attack": 98,
-        "Defense": 121,
-        "Stamina": 120,
-        "Type1": "steel",
-        "Type2": "none"
-    },
-    "klang": {
-        "Attack": 150,
-        "Defense": 174,
-        "Stamina": 155,
-        "Type1": "steel",
-        "Type2": "none"
-    },
-    "klinklang": {
-        "Attack": 199,
-        "Defense": 214,
-        "Stamina": 155,
-        "Type1": "steel",
-        "Type2": "none"
-    },
-    "tynamo": {
-        "Attack": 105,
-        "Defense": 78,
-        "Stamina": 111,
-        "Type1": "electric",
-        "Type2": "none"
-    },
-    "eelektrik": {
-        "Attack": 156,
-        "Defense": 130,
-        "Stamina": 163,
-        "Type1": "electric",
-        "Type2": "none"
-    },
-    "eelektross": {
-        "Attack": 217,
-        "Defense": 152,
-        "Stamina": 198,
-        "Type1": "electric",
-        "Type2": "none"
-    },
-    "elgyem": {
-        "Attack": 148,
-        "Defense": 100,
-        "Stamina": 146,
-        "Type1": "psychic",
-        "Type2": "none"
-    },
-    "beheeyem": {
-        "Attack": 221,
-        "Defense": 163,
-        "Stamina": 181,
-        "Type1": "psychic",
-        "Type2": "none"
-    },
-    "litwick": {
-        "Attack": 108,
-        "Defense": 98,
-        "Stamina": 137,
-        "Type1": "ghost",
-        "Type2": "fire"
-    },
-    "lampent": {
-        "Attack": 169,
-        "Defense": 115,
-        "Stamina": 155,
-        "Type1": "ghost",
-        "Type2": "fire"
-    },
-    "chandelure": {
-        "Attack": 271,
-        "Defense": 182,
-        "Stamina": 155,
-        "Type1": "ghost",
-        "Type2": "fire"
-    },
-    "axew": {
-        "Attack": 154,
-        "Defense": 101,
-        "Stamina": 130,
-        "Type1": "dragon",
-        "Type2": "none"
-    },
-    "fraxure": {
-        "Attack": 212,
-        "Defense": 123,
-        "Stamina": 165,
-        "Type1": "dragon",
-        "Type2": "none"
-    },
-    "haxorus": {
-        "Attack": 284,
-        "Defense": 172,
-        "Stamina": 183,
-        "Type1": "dragon",
-        "Type2": "none"
-    },
-    "cubchoo": {
-        "Attack": 128,
-        "Defense": 74,
-        "Stamina": 146,
-        "Type1": "ice",
-        "Type2": "none"
-    },
-    "beartic": {
-        "Attack": 233,
-        "Defense": 152,
-        "Stamina": 216,
-        "Type1": "ice",
-        "Type2": "none"
-    },
-    "cryogonal": {
-        "Attack": 190,
-        "Defense": 218,
-        "Stamina": 190,
-        "Type1": "ice",
-        "Type2": "none"
-    },
-    "shelmet": {
-        "Attack": 72,
-        "Defense": 140,
-        "Stamina": 137,
-        "Type1": "bug",
-        "Type2": "none"
-    },
-    "accelgor": {
-        "Attack": 220,
-        "Defense": 120,
-        "Stamina": 190,
-        "Type1": "bug",
-        "Type2": "none"
-    },
-    "stunfisk": {
-        "Attack": 144,
-        "Defense": 171,
-        "Stamina": 240,
-        "Type1": "ground",
-        "Type2": "electric"
-    },
-    "mienfoo": {
-        "Attack": 160,
-        "Defense": 98,
-        "Stamina": 128,
-        "Type1": "fighting",
-        "Type2": "none"
-    },
-    "mienshao": {
-        "Attack": 258,
-        "Defense": 127,
-        "Stamina": 163,
-        "Type1": "fighting",
-        "Type2": "none"
-    },
-    "druddigon": {
-        "Attack": 213,
-        "Defense": 170,
-        "Stamina": 184,
-        "Type1": "dragon",
-        "Type2": "none"
-    },
-    "golett": {
-        "Attack": 127,
-        "Defense": 92,
-        "Stamina": 153,
-        "Type1": "ground",
-        "Type2": "ghost"
-    },
-    "golurk": {
-        "Attack": 222,
-        "Defense": 154,
-        "Stamina": 205,
-        "Type1": "ground",
-        "Type2": "ghost"
-    },
-    "pawniard": {
-        "Attack": 154,
-        "Defense": 114,
-        "Stamina": 128,
-        "Type1": "dark",
-        "Type2": "steel"
-    },
-    "bisharp": {
-        "Attack": 232,
-        "Defense": 176,
-        "Stamina": 163,
-        "Type1": "dark",
-        "Type2": "steel"
-    },
-    "bouffalant": {
-        "Attack": 195,
-        "Defense": 182,
-        "Stamina": 216,
-        "Type1": "normal",
-        "Type2": "none"
-    },
-    "rufflet": {
-        "Attack": 150,
-        "Defense": 97,
-        "Stamina": 172,
-        "Type1": "normal",
-        "Type2": "flying"
-    },
-    "braviary": {
-        "Attack": 232,
-        "Defense": 152,
-        "Stamina": 225,
-        "Type1": "normal",
-        "Type2": "flying"
-    },
-    "vullaby": {
-        "Attack": 105,
-        "Defense": 139,
-        "Stamina": 172,
-        "Type1": "dark",
-        "Type2": "flying"
-    },
-    "mandibuzz": {
-        "Attack": 129,
-        "Defense": 205,
-        "Stamina": 242,
-        "Type1": "dark",
-        "Type2": "flying"
-    },
-    "heatmor": {
-        "Attack": 204,
-        "Defense": 129,
-        "Stamina": 198,
-        "Type1": "fire",
-        "Type2": "none"
-    },
-    "durant": {
-        "Attack": 217,
-        "Defense": 188,
-        "Stamina": 151,
-        "Type1": "bug",
-        "Type2": "steel"
-    },
-    "deino": {
-        "Attack": 116,
-        "Defense": 93,
-        "Stamina": 141,
-        "Type1": "dark",
-        "Type2": "dragon"
-    },
-    "zweilous": {
-        "Attack": 159,
-        "Defense": 135,
-        "Stamina": 176,
-        "Type1": "dark",
-        "Type2": "dragon"
-    },
-    "hydreigon": {
-        "Attack": 256,
-        "Defense": 188,
-        "Stamina": 211,
-        "Type1": "dark",
-        "Type2": "dragon"
-    },
-    "larvesta": {
-        "Attack": 156,
-        "Defense": 107,
-        "Stamina": 146,
-        "Type1": "bug",
-        "Type2": "fire"
-    },
-    "volcarona": {
-        "Attack": 264,
-        "Defense": 189,
-        "Stamina": 198,
-        "Type1": "bug",
-        "Type2": "fire"
-    },
-    "cobalion": {
-        "Attack": 192,
-        "Defense": 229,
-        "Stamina": 209,
-        "Type1": "steel",
-        "Type2": "fighting"
-    },
-    "terrakion": {
-        "Attack": 260,
-        "Defense": 192,
-        "Stamina": 209,
-        "Type1": "rock",
-        "Type2": "fighting"
-    },
-    "virizion": {
-        "Attack": 192,
-        "Defense": 229,
-        "Stamina": 209,
-        "Type1": "grass",
-        "Type2": "fighting"
-    },
-    "tornadus": {
-        "Attack": 266,
-        "Defense": 164,
-        "Stamina": 188,
-        "Type1": "flying",
-        "Type2": "none"
-    },
-    "tornadus-incarnate": {
-        "Attack": 266,
-        "Defense": 164,
-        "Stamina": 188,
-        "Type1": "flying",
-        "Type2": "none"
-    },
-    "tornadus-therian": {
-        "Attack": 238,
-        "Defense": 189,
-        "Stamina": 188,
-        "Type1": "flying",
-        "Type2": "none"
-    },
-    "thundurus": {
-        "Attack": 266,
-        "Defense": 164,
-        "Stamina": 188,
-        "Type1": "electric",
-        "Type2": "flying"
-    },
-    "thundurus-incarnate": {
-        "Attack": 266,
-        "Defense": 164,
-        "Stamina": 188,
-        "Type1": "electric",
-        "Type2": "flying"
-    },
-    "thundurus-therian": {
-        "Attack": 295,
-        "Defense": 161,
-        "Stamina": 188,
-        "Type1": "electric",
-        "Type2": "flying"
-    },
-    "reshiram": {
-        "Attack": 275,
-        "Defense": 211,
-        "Stamina": 205,
-        "Type1": "dragon",
-        "Type2": "fire"
-    },
-    "zekrom": {
-        "Attack": 275,
-        "Defense": 211,
-        "Stamina": 205,
-        "Type1": "dragon",
-        "Type2": "electric"
-    },
-    "landorus": {
-        "Attack": 261,
-        "Defense": 182,
-        "Stamina": 205,
-        "Type1": "ground",
-        "Type2": "flying"
-    },
-    "landorus-incarnate": {
-        "Attack": 261,
-        "Defense": 182,
-        "Stamina": 205,
-        "Type1": "ground",
-        "Type2": "flying"
-    },
-    "landorus-therian": {
-        "Attack": 289,
-        "Defense": 179,
-        "Stamina": 205,
-        "Type1": "ground",
-        "Type2": "flying"
-    },
-    "kyurem": {
-        "Attack": 246,
-        "Defense": 170,
-        "Stamina": 245,
-        "Type1": "dragon",
-        "Type2": "ice"
-    },
-    "kyurem-black": {
-        "Attack": 310,
-        "Defense": 183,
-        "Stamina": 245,
-        "Type1": "dragon",
-        "Type2": "ice"
-    },
-    "kyurem-normal": {
-        "Attack": 246,
-        "Defense": 170,
-        "Stamina": 245,
-        "Type1": "dragon",
-        "Type2": "ice"
-    },
-    "kyurem-white": {
-        "Attack": 310,
-        "Defense": 183,
-        "Stamina": 245,
-        "Type1": "dragon",
-        "Type2": "ice"
-    },
-    "keldeo": {
-        "Attack": 260,
-        "Defense": 192,
-        "Stamina": 209,
-        "Type1": "water",
-        "Type2": "fighting"
-    },
-    "keldeo-ordinary": {
-        "Attack": 260,
-        "Defense": 192,
-        "Stamina": 209,
-        "Type1": "water",
-        "Type2": "fighting"
-    },
-    "keldeo-resolute": {
-        "Attack": 260,
-        "Defense": 192,
-        "Stamina": 209,
-        "Type1": "water",
-        "Type2": "fighting"
-    },
-    "meloetta": {
-        "Attack": 250,
-        "Defense": 225,
-        "Stamina": 225,
-        "Type1": "normal",
-        "Type2": "psychic"
-    },
-    "meloetta-aria": {
-        "Attack": 250,
-        "Defense": 225,
-        "Stamina": 225,
-        "Type1": "normal",
-        "Type2": "psychic"
-    },
-    "meloetta-pirouette": {
-        "Attack": 269,
-        "Defense": 188,
-        "Stamina": 225,
-        "Type1": "normal",
-        "Type2": "fighting"
-    },
-    "genesect": {
-        "Attack": 252,
-        "Defense": 199,
-        "Stamina": 174,
-        "Type1": "bug",
-        "Type2": "steel"
-    },
-    "genesect-burn": {
-        "Attack": 252,
-        "Defense": 199,
-        "Stamina": 174,
-        "Type1": "bug",
-        "Type2": "steel"
-    },
-    "genesect-chill": {
-        "Attack": 252,
-        "Defense": 199,
-        "Stamina": 174,
-        "Type1": "bug",
-        "Type2": "steel"
-    },
-    "genesect-douse": {
-        "Attack": 252,
-        "Defense": 199,
-        "Stamina": 174,
-        "Type1": "bug",
-        "Type2": "steel"
-    },
-    "genesect-normal": {
-        "Attack": 252,
-        "Defense": 199,
-        "Stamina": 174,
-        "Type1": "bug",
-        "Type2": "steel"
-    },
-    "genesect-shock": {
-        "Attack": 252,
-        "Defense": 199,
-        "Stamina": 174,
-        "Type1": "bug",
-        "Type2": "steel"
-    },
     "meltan": {
-        "Attack": 118,
-        "Defense": 99,
+        "Attack": 112,
+        "Defense": 113,
         "Stamina": 130,
         "Type1": "steel",
         "Type2": "none"
     },
     "melmetal": {
-        "Attack": 226,
-        "Defense": 190,
+        "Attack": 231,
+        "Defense": 213,
         "Stamina": 264,
         "Type1": "steel",
         "Type2": "none"

@@ -3,3 +3,5 @@ scrap
 .vscode
 npm-debug.log
 .env
+imgur/*.jpg
+run.bat

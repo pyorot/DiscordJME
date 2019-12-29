@@ -3,10 +3,6 @@
 		"Type": "poison",
 		"Power": 9
 	},
-	"acid spray": {
-		"Type": "poison",
-		"Power": 20
-	},
 	"aerial ace": {
 		"Type": "flying",
 		"Power": 55
@@ -50,10 +46,6 @@
 	"blast burn": {
 		"Type": "fire",
 		"Power": 110
-	},
-	"blaze kick": {
-		"Type": "fire",
-		"Power": 45
 	},
 	"blizzard": {
 		"Type": "ice",
@@ -111,10 +103,6 @@
 		"Type": "electric",
 		"Power": 8
 	},
-	"charm": {
-		"Type": "fairy",
-		"Power": 20
-	},
 	"close combat": {
 		"Type": "fighting",
 		"Power": 100
@@ -127,10 +115,6 @@
 		"Type": "fighting",
 		"Power": 12
 	},
-	"crabhammer": {
-		"Type": "water",
-		"Power": 85
-	},
 	"cross chop": {
 		"Type": "fighting",
 		"Power": 50
@@ -142,10 +126,6 @@
 	"crunch": {
 		"Type": "dark",
 		"Power": 70
-	},
-	"crush claw": {
-		"Type": "normal",
-		"Power": 0
 	},
 	"cut": {
 		"Type": "normal",
@@ -173,7 +153,7 @@
 	},
 	"doom desire": {
 		"Type": "steel",
-		"Power": 70
+		"Power": 80
 	},
 	"draco meteor": {
 		"Type": "dragon",
@@ -195,10 +175,6 @@
 		"Type": "dragon",
 		"Power": 15
 	},
-	"drain punch": {
-		"Type": "fighting",
-		"Power": 0
-	},
 	"draining kiss": {
 		"Type": "fairy",
 		"Power": 60
@@ -214,10 +190,6 @@
 	"dynamic punch": {
 		"Type": "fighting",
 		"Power": 90
-	},
-	"earth power": {
-		"Type": "ground",
-		"Power": 100
 	},
 	"earthquake": {
 		"Type": "ground",
@@ -239,17 +211,13 @@
 		"Type": "dark",
 		"Power": 10
 	},
-	"fell stinger": {
-		"Type": "bug",
-		"Power": 0
-	},
 	"fire blast": {
 		"Type": "fire",
 		"Power": 140
 	},
 	"fire fang": {
 		"Type": "fire",
-		"Power": 12
+		"Power": 11
 	},
 	"fire punch": {
 		"Type": "fire",
@@ -258,10 +226,6 @@
 	"fire spin": {
 		"Type": "fire",
 		"Power": 14
-	},
-	"fissure": {
-		"Type": "ground",
-		"Power": 0
 	},
 	"flame burst": {
 		"Type": "fire",
@@ -299,10 +263,6 @@
 		"Type": "ice",
 		"Power": 10
 	},
-	"frustration": {
-		"Type": "normal",
-		"Power": 10
-	},
 	"fury cutter": {
 		"Type": "bug",
 		"Power": 3
@@ -314,10 +274,6 @@
 	"giga drain": {
 		"Type": "grass",
 		"Power": 50
-	},
-	"giga impact": {
-		"Type": "normal",
-		"Power": 9001
 	},
 	"grass knot": {
 		"Type": "grass",
@@ -355,10 +311,6 @@
 		"Type": "normal",
 		"Power": 40
 	},
-	"horn drill": {
-		"Type": "normal",
-		"Power": 0
-	},
 	"hurricane": {
 		"Type": "flying",
 		"Power": 110
@@ -382,10 +334,6 @@
 	"ice beam": {
 		"Type": "ice",
 		"Power": 90
-	},
-	"ice fang": {
-		"Type": "ice",
-		"Power": 12
 	},
 	"ice punch": {
 		"Type": "ice",
@@ -423,21 +371,9 @@
 		"Type": "grass",
 		"Power": 70
 	},
-	"leaf tornado": {
-		"Type": "grass",
-		"Power": 45
-	},
-	"leech life": {
-		"Type": "bug",
-		"Power": 0
-	},
 	"lick": {
 		"Type": "ghost",
 		"Power": 5
-	},
-	"lock on": {
-		"Type": "normal",
-		"Power": 8
 	},
 	"low kick": {
 		"Type": "fighting",
@@ -446,10 +382,6 @@
 	"low sweep": {
 		"Type": "fighting",
 		"Power": 40
-	},
-	"lunge": {
-		"Type": "bug",
-		"Power": 0
 	},
 	"magnet bomb": {
 		"Type": "steel",
@@ -475,10 +407,6 @@
 		"Type": "psychic",
 		"Power": 60
 	},
-	"mirror shot": {
-		"Type": "steel",
-		"Power": 0
-	},
 	"moonblast": {
 		"Type": "fairy",
 		"Power": 130
@@ -495,10 +423,6 @@
 		"Type": "ground",
 		"Power": 15
 	},
-	"muddy water": {
-		"Type": "water",
-		"Power": 50
-	},
 	"night shade": {
 		"Type": "ghost",
 		"Power": 60
@@ -506,10 +430,6 @@
 	"night slash": {
 		"Type": "dark",
 		"Power": 50
-	},
-	"octazooka": {
-		"Type": "water",
-		"Power": 0
 	},
 	"ominous wind": {
 		"Type": "ghost",
@@ -567,10 +487,6 @@
 		"Type": "rock",
 		"Power": 80
 	},
-	"power up punch": {
-		"Type": "fighting",
-		"Power": 50
-	},
 	"power whip": {
 		"Type": "grass",
 		"Power": 90
@@ -589,7 +505,7 @@
 	},
 	"psychic": {
 		"Type": "psychic",
-		"Power": 90
+		"Power": 100
 	},
 	"psycho boost": {
 		"Type": "psychic",
@@ -605,7 +521,7 @@
 	},
 	"psystrike": {
 		"Type": "psychic",
-		"Power": 90
+		"Power": 100
 	},
 	"quick attack": {
 		"Type": "normal",
@@ -615,17 +531,9 @@
 		"Type": "grass",
 		"Power": 13
 	},
-	"razor shell": {
-		"Type": "water",
-		"Power": 0
-	},
 	"rest": {
 		"Type": "normal",
 		"Power": 50
-	},
-	"return": {
-		"Type": "normal",
-		"Power": 35
 	},
 	"rock blast": {
 		"Type": "rock",
@@ -667,10 +575,6 @@
 		"Type": "ghost",
 		"Power": 100
 	},
-	"shadow bone": {
-		"Type": "ghost",
-		"Power": 0
-	},
 	"shadow claw": {
 		"Type": "ghost",
 		"Power": 9
@@ -690,10 +594,6 @@
 	"silver wind": {
 		"Type": "bug",
 		"Power": 70
-	},
-	"skull bash": {
-		"Type": "normal",
-		"Power": 130
 	},
 	"sky attack": {
 		"Type": "flying",
@@ -759,10 +659,6 @@
 		"Type": "dark",
 		"Power": 7
 	},
-	"super power": {
-		"Type": "fighting",
-		"Power": 0
-	},
 	"surf": {
 		"Type": "water",
 		"Power": 65
@@ -770,10 +666,6 @@
 	"swift": {
 		"Type": "normal",
 		"Power": 60
-	},
-	"synchronoise": {
-		"Type": "psychic",
-		"Power": 80
 	},
 	"tackle": {
 		"Type": "normal",
@@ -786,10 +678,6 @@
 	"thunder": {
 		"Type": "electric",
 		"Power": 100
-	},
-	"thunder fang": {
-		"Type": "electric",
-		"Power": 12
 	},
 	"thunder punch": {
 		"Type": "electric",
@@ -844,7 +732,7 @@
 		"Power": 60
 	},
 	"weather ball (rock)": {
-		"Type": "normal",
+		"Type": "rock",
 		"Power": 60
 	},
 	"weather ball (water)": {

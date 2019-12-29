@@ -10,7 +10,10 @@
   "author": "Pyorot",
   "license": "ISC",
   "dependencies": {
-    "discord.js": "^11.0.0",
-    "request": "2.83.0"
+    "cloudscraper": "^4.1.2",
+    "discord.js": "^11.4.2",
+    "h2m": "^0.7.0",
+    "request": "2.88.0",
+    "superagent": "4.1.0"
   }
 }
